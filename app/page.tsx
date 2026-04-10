@@ -4,14 +4,13 @@ import React from "react";
 export default function Home() {
   return (
     <React.Fragment>
-      <Container disableGutters maxWidth="md" sx={{marginTop: 8}}>
-        <Typography sx={{
-          fontWeight: 600,
-          fontSize: 48
-        }}>
-          Hello World!
-        </Typography>
-      </Container>
+      
+      <Typography sx={{
+        fontWeight: 600,
+        fontSize: 48
+      }}>
+        Hello World!
+      </Typography>
     </React.Fragment>
   );
 } 

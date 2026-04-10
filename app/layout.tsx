@@ -4,6 +4,7 @@ import "./globals.css";
 import ResponsiveAppBar from "@/components/responseAppBar";
 import MuiThemeProvider from "@/components/themeProvider";
 import { AppRouterCacheProvider } from '@mui/material-nextjs/v15-appRouter';
+import { Container } from "@mui/material";
 
 const domine = Domine({
   subsets: ["latin"],
@@ -28,7 +29,9 @@ export default function RootLayout({
         <AppRouterCacheProvider>
           <MuiThemeProvider>
             <ResponsiveAppBar />
-            {children}
+              <Container maxWidth="lg" sx={{marginTop: 8}}>
+                {children}
+              </Container>
           </MuiThemeProvider>
         </AppRouterCacheProvider>
       </body>
