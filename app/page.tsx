@@ -25,11 +25,11 @@ export default function Home() {
 
                 <Typography sx={{
                 fontWeight: 400,
-                fontSize: 32,
+                fontSize: 30,
                 }}>
                     Hello World! <br />
                     I'm Kenzie Leckenby <br />
-                    <InterestBuffet fontSize={36} />
+                    <InterestBuffet fontSize={30} />
                 </Typography>
             </Container>
 

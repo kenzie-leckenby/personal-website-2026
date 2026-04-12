@@ -13,7 +13,7 @@ export default function BlogCards() {
                 {blogs.map((blog) => (
                     <Box key={blog.title} component='a' href={'blog/' + blog.title.toLowerCase().replaceAll(' ', '-')} rel="noopener noreferrer" sx={{padding: 2, width: '100%', borderRadius: 4, '&:hover': { backgroundColor: 'action.hover'}}}>
                         <Box sx={{display: 'flex', flexDirection: 'column', width: '100%'}}>
-                            <Box sx={{display: 'flex', width: '100%', flexDirection: 'row', justifyContent: 'space-between'}}>
+                            <Box sx={{display: 'flex', width: '100%', flexDirection: 'column', justifyContent: 'space-between'}}>
                                 <Typography sx={{
                                 fontWeight: 400,
                                 fontSize: 20
@@ -27,7 +27,7 @@ export default function BlogCards() {
                                     {blog.date}
                                 </Typography>
                             </Box>
-                            <Divider />
+                            <Divider sx={{mt: 1}} />
                             <Typography sx={{
                             fontWeight: 400,
                             fontSize: 14,
@@ -62,7 +62,7 @@ export default function BlogCards() {
                 {blogs.map((blog) => (
                     <Box key={blog.title} component='a' href={'blog/' + blog.title.toLowerCase().replaceAll(' ', '-')} rel="noopener noreferrer" sx={{padding: 2, width: '100%', borderRadius: 4, '&:hover': { backgroundColor: 'action.hover'}}}>
                         <Box sx={{display: 'flex', flexDirection: 'column', width: '100%'}}>
-                            <Box sx={{display: 'flex', width: '100%', flexDirection: 'row', justifyContent: 'space-between'}}>
+                            <Box sx={{display: 'flex', width: '100%', flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center'}}>
                                 <Typography sx={{
                                 fontWeight: 400,
                                 fontSize: 24
