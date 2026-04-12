@@ -15,6 +15,12 @@ import MenuItem from '@mui/material/MenuItem';
 import { ThemeToggleButton } from './themeProvider';
 import { Divider } from '@mui/material';
 
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import GitHubIcon from '@mui/icons-material/GitHub';
+
+import Link from 'next/link';
+
+
 const pages = ['Blog', 'Apps'];
 
 function ResponsiveAppBar() {
@@ -29,10 +35,10 @@ function ResponsiveAppBar() {
   };
 
   return (
-    <AppBar 
-        position="static" 
+    <AppBar
+        position="sticky"
         sx={{
-        backgroundColor: 'transparent', 
+        backgroundColor: 'background.default',
         backgroundImage: 'none',
         borderBottom: 1,
         borderColor: 'background.paper',
@@ -40,6 +46,73 @@ function ResponsiveAppBar() {
     }}>
         <Container maxWidth="lg">
             <Toolbar disableGutters>
+
+                {/* ----------------------- */}
+                {/* Small Screen Components */}
+                {/* ----------------------- */}
+
+                <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
+                    <IconButton
+                        size="large"
+                        aria-label="account of current user"
+                        aria-controls="menu-appbar"
+                        aria-haspopup="true"
+                        onClick={handleOpenNavMenu}
+                        sx={{color: 'text.primary'}}
+                    >
+                        <MenuIcon />
+                    </IconButton>
+                    <Menu
+                        id="menu-appbar"
+                        anchorEl={anchorElNav}
+                        anchorOrigin={{
+                            vertical: 'bottom',
+                            horizontal: 'left',
+                        }}
+                        keepMounted
+                        transformOrigin={{
+                            vertical: 'top',
+                            horizontal: 'left',
+                        }}
+                        open={Boolean(anchorElNav)}
+                        onClose={handleCloseNavMenu}
+                        sx={{ display: { xs: 'block', md: 'none' } }}
+                    >
+                        {pages.map((page) => (
+                            <MenuItem key={page} onClick={handleCloseNavMenu}>
+                            <Typography sx={{ textAlign: 'center' }}>{page}</Typography>
+                            </MenuItem>
+                        ))}
+                    </Menu>
+                </Box>
+
+                <Typography
+                    variant="h5"
+                    noWrap
+                    component="a"
+                    href="/"
+                    sx={{
+                    mr: 2,
+                    display: { xs: 'flex', md: 'none' },
+                    flexGrow: 1,
+                    fontWeight: 400,
+                    fontFamily: 'inherit',
+                    color: 'text.primary'
+                    }}
+                >
+                    Kenzie Leckenby
+                </Typography>
+
+                <Box sx={{ display: { xs: 'flex', md: 'none' }, flexGrow: 0, flexDirection: 'row'}}>
+                    <Tooltip title="Change Website Theme">
+                        <ThemeToggleButton />
+                    </Tooltip>
+                </Box>
+
+                {/* ----------------------- */}
+                {/* Large Screen Components */}
+                {/* ----------------------- */}
+
                 <Typography
                     variant="h6"
                     noWrap
@@ -48,81 +121,34 @@ function ResponsiveAppBar() {
                     sx={{
                         mr: 4,
                         display: { xs: 'none', md: 'flex' },
-                        fontWeight: 700,
-                        fontFamily: 'inherit'
+                        fontWeight: 400,
+                        fontFamily: 'inherit',
+                        color: 'text.primary'
                     }}
                 >
                     Kenzie Leckenby
                 </Typography>
 
-            <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
-                <IconButton
-                    size="large"
-                    aria-label="account of current user"
-                    aria-controls="menu-appbar"
-                    aria-haspopup="true"
-                    onClick={handleOpenNavMenu}
-                    color="inherit"
-                >
-                    <MenuIcon />
-                </IconButton>
-                <Menu
-                    id="menu-appbar"
-                    anchorEl={anchorElNav}
-                    anchorOrigin={{
-                        vertical: 'bottom',
-                        horizontal: 'left',
-                    }}
-                    keepMounted
-                    transformOrigin={{
-                        vertical: 'top',
-                        horizontal: 'left',
-                    }}
-                    open={Boolean(anchorElNav)}
-                    onClose={handleCloseNavMenu}
-                    sx={{ display: { xs: 'block', md: 'none' } }}
-                >
+                <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' }}}>
+                    <Divider orientation="vertical" flexItem sx={{mr: 2}} />
                     {pages.map((page) => (
-                        <MenuItem key={page} onClick={handleCloseNavMenu}>
-                        <Typography sx={{ textAlign: 'center' }}>{page}</Typography>
-                        </MenuItem>
+                        <Link key={page} href={'/' + page.toLowerCase()}>
+                            <Button
+                            sx={{ mr: 2, display: 'block', '&:hover': { backgroundColor: 'action.hover' }}}
+                            >
+                                {page}
+                            </Button>
+                        </Link>
+
                     ))}
-                </Menu>
-            </Box>
-            <Typography
-                variant="h5"
-                noWrap
-                component="a"
-                href="/"
-                sx={{
-                mr: 2,
-                display: { xs: 'flex', md: 'none' },
-                flexGrow: 1,
-                fontWeight: 700,
-                fontFamily: 'inherit'
-                }}
-            >
-                Kenzie Leckenby
-            </Typography>
-            <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' }}}>
-                <Divider orientation="vertical" flexItem sx={{mr: 2}} />
-                {pages.map((page) => (
-                    <Button
-                        key={page}
-                        onClick={handleCloseNavMenu}
-                        sx={{ mr: 2, display: 'block', color: 'text.primary', '&:hover': { backgroundColor: 'background.paper'}}}
-                    >
-                        {page}
-                    </Button>
-                ))}
-            </Box>
-            <Box sx={{ flexGrow: 0 }}>
-                <Tooltip title="Change Website Theme">
-                <ThemeToggleButton />
-                </Tooltip>
-            </Box>
-        </Toolbar>
-      </Container>
+                </Box>
+                <Box sx={{ display: { xs: 'none', md: 'flex' }, flexGrow: 0, flexDirection: 'row', gap: 2}}>
+                    <Tooltip title="Change Website Theme">
+                        <ThemeToggleButton />
+                    </Tooltip>
+                </Box>
+            </Toolbar>
+        </Container>
     </AppBar>
   );
 }

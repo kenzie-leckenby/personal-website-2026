@@ -1,0 +1,36 @@
+{
+    "projects": [
+        {
+            "name": "Personal Website",
+            "dateStart": "April 2026",
+            "dateEnd": "May 2026",
+            "description": "New personal website for the year of 2026 built on Next.js which features a blog and apps page for future expansion.",
+            "skills": ["React.js", "Node.js", "MongoDB", "Material UI", "TypeScript", "Next.js"],
+            "githubUrl": "https://github.com/kenzie-leckenby/personal-website-2026"
+        },
+        {
+            "name": "HackViolet2025 - TeacherAid",
+            "dateStart": "Feb 2025",
+            "dateEnd": "Feb 2025",
+            "description": "Created a website that would enable teachers to create a virtual classroom, assign a layout, then allow students to raise their hands virtually without interupting class.",
+            "skills": ["React.js", "Node.js", "MongoDB", "Material UI", "TypeScript"],
+            "githubUrl": "https://github.com/neumann-davila/HackViolet2025"
+        },
+        {
+            "name": "VTHacks2024 - IntelliQuest",
+            "dateStart": "Sep 2024",
+            "dateEnd": "Sep 2024",
+            "description": "Created a website where you could create a character and have an AI Dungeon Master take you on a journey through a unique world where you make your own choices.",
+            "skills": ["React.js", "Node.js", "OpenAI API", "Material UI", "TypeScript"],
+            "githubUrl": "https://github.com/kenzie-leckenby/VTHax2024"
+        },
+        {
+            "name": "Craftcord",
+            "dateStart": "Nov 2023",
+            "dateEnd": "Jun 2024",
+            "description": "Created a discord bot that would sync chat messages within a minecraft server with a connected discord server.",
+            "skills": ["Discord API", "JSON", "JavaScript", "Node.js"],
+            "githubUrl": "https://github.com/kenzie-leckenby/Craftcord"
+        }
+    ]
+}

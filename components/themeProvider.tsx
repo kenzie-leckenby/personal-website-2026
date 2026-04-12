@@ -13,7 +13,7 @@ const useColorMode = () => useContext(ColorModeContext);
 
 export function ThemeToggleButton() {
     const { toggleTheme, isDark } = useColorMode();
-    
+
     return(
         <IconButton onClick={toggleTheme} sx={{color: 'text.primary'}}>
             {isDark ? <DarkModeIcon /> : <LightModeIcon />}
