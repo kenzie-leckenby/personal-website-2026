@@ -11,7 +11,7 @@ export default function BlogCards() {
         <React.Fragment>
             <Box sx={{display: {xs: 'flex', md: 'none'}, flexDirection: 'column', gap: 2}}>
                 {blogs.map((blog) => (
-                    <Box key={blog.title} component='a' href={'blog/' + blog.title.toLowerCase().replaceAll(' ', '-')} target="_blank" rel="noopener noreferrer" sx={{padding: 2, width: '100%', borderRadius: 4, '&:hover': { backgroundColor: 'action.hover'}}}>
+                    <Box key={blog.title} component='a' href={'blog/' + blog.title.toLowerCase().replaceAll(' ', '-')} rel="noopener noreferrer" sx={{padding: 2, width: '100%', borderRadius: 4, '&:hover': { backgroundColor: 'action.hover'}}}>
                         <Box sx={{display: 'flex', flexDirection: 'column', width: '100%'}}>
                             <Box sx={{display: 'flex', width: '100%', flexDirection: 'row', justifyContent: 'space-between'}}>
                                 <Typography sx={{
@@ -60,7 +60,7 @@ export default function BlogCards() {
 
             <Box sx={{display: {xs: 'none', md: 'flex'}, flexDirection: 'column', gap: 2}}>
                 {blogs.map((blog) => (
-                    <Box key={blog.title} component='a' href={'blog/' + blog.title.toLowerCase().replaceAll(' ', '-')} target="_blank" rel="noopener noreferrer" sx={{padding: 2, width: '100%', borderRadius: 4, '&:hover': { backgroundColor: 'action.hover'}}}>
+                    <Box key={blog.title} component='a' href={'blog/' + blog.title.toLowerCase().replaceAll(' ', '-')} rel="noopener noreferrer" sx={{padding: 2, width: '100%', borderRadius: 4, '&:hover': { backgroundColor: 'action.hover'}}}>
                         <Box sx={{display: 'flex', flexDirection: 'column', width: '100%'}}>
                             <Box sx={{display: 'flex', width: '100%', flexDirection: 'row', justifyContent: 'space-between'}}>
                                 <Typography sx={{

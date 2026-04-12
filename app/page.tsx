@@ -25,7 +25,7 @@ export default function Home() {
 
                 <Typography sx={{
                 fontWeight: 400,
-                fontSize: 36,
+                fontSize: 32,
                 }}>
                     Hello World! <br />
                     I'm Kenzie Leckenby <br />

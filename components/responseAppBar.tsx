@@ -14,11 +14,12 @@ import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
 import { ThemeToggleButton } from './themeProvider';
 import { Divider } from '@mui/material';
+import Link from 'next/link';
 
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
 
-import Link from 'next/link';
+
 
 
 const pages = ['Blog', 'Apps'];
@@ -79,8 +80,8 @@ function ResponsiveAppBar() {
                         sx={{ display: { xs: 'block', md: 'none' } }}
                     >
                         {pages.map((page) => (
-                            <MenuItem key={page} onClick={handleCloseNavMenu}>
-                            <Typography sx={{ textAlign: 'center' }}>{page}</Typography>
+                            <MenuItem key={page} onClick={handleCloseNavMenu} component={Link} href={'/' + page.toLowerCase()}>
+                                <Typography sx={{ textAlign: 'left' }}>{page}</Typography>
                             </MenuItem>
                         ))}
                     </Menu>
