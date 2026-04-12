@@ -39,7 +39,7 @@ export default function AboutMe () {
                 </Box>
             </Box>
 
-            <Box sx={{display: {xs: 'none', md: 'flex'}, flexDirection: 'row', justifyContent: 'space-between', gap: 8, paddingTop: 8}}>
+            <Box sx={{display: {xs: 'none', md: 'flex'}, flexDirection: 'row', justifyContent: 'space-between', gap: 8, paddingTop: 4}}>
                 <Image
                 src='/about_me_photo_1.jpg'
                 alt='A picture of me sitting cross-legged on stairs'
@@ -51,13 +51,13 @@ export default function AboutMe () {
                 <Box sx={{display: 'flex', flexDirection: 'column', gap: 2}}>
                     <Typography sx={{
                     fontWeight: 400,
-                    fontSize: 24}}>
+                    fontSize: 20}}>
                         Currently a student at George Mason University majoring in Computer Science with an interest in graphics computing.
                         I am also studying Japanese as part of a minor and currently preparing for the JLPT N3 exam.
                     </Typography>
                     <Typography sx={{
                     fontWeight: 400,
-                    fontSize: 24}}>
+                    fontSize: 20}}>
                         In my freetime you can also find me translating manga, reading books, and making music
                     </Typography>
                 </Box>

@@ -30,8 +30,10 @@ export default function RootLayout({
         <AppRouterCacheProvider>
           <MuiThemeProvider>
             <ResponsiveAppBar />
-            <Container maxWidth="lg" sx={{marginTop: 8}}>
+            <Container maxWidth="lg" sx={{marginTop: {xs: 4, md: 8}, minHeight: 800}}>
               {children}
+            </Container>
+            <Container maxWidth="lg">
               <Box sx={{marginTop: 8}}><BottomBar /></Box>
             </Container>
           </MuiThemeProvider>

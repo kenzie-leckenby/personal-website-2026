@@ -1,7 +1,7 @@
 'use client';
 
 import * as React from 'react';
-import { useRef, useState } from 'react';
+import { useRef, useState, useEffect } from 'react';
 import { Project } from '@/types/project'
 import projectData from '@/data/projects.json';
 import { Divider, Chip, Box, Typography } from '@mui/material';
@@ -14,13 +14,19 @@ export default function ProjectCard() {
     const scrollRef = useRef<HTMLDivElement>(null);
     const [hasScrolled, setHasScrolled] = useState(false);
 
-    const handleWheel = (e: React.WheelEvent) => {
-        if (scrollRef.current) {
+    useEffect(() => {
+        const el = scrollRef.current;
+        if (!el) return;
+
+        const handleWheel = (e: WheelEvent) => {
             e.preventDefault();
-            scrollRef.current.scrollLeft += e.deltaY;
+            el.scrollLeft += e.deltaY;
             setHasScrolled(true);
-        }
-    };
+        };
+
+        el.addEventListener('wheel', handleWheel, { passive: false });
+            return () => el.removeEventListener('wheel', handleWheel);
+    }, []);
 
     const handleScroll = () => {
         if (scrollRef.current && scrollRef.current.scrollLeft > 0) {
@@ -78,10 +84,10 @@ export default function ProjectCard() {
             </Box>
 
             <Box sx={{ position: 'relative', display: { xs: 'none', md: 'flex' } }}>
-                <Box ref={scrollRef} onWheel={handleWheel} onScroll={handleScroll} sx={{
+                <Box ref={scrollRef} onScroll={handleScroll} sx={{
                 display: { xs: 'none', md: 'flex' },
                 gap: 2,
-                paddingTop: 8,
+                paddingTop: 4,
                 flexDirection: 'row',
                 overflowX: 'auto',
                 pb: 1,

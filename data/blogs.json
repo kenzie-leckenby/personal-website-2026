@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "Redoing my Website for 2026",
+            "subtitle": "Discussing why I redesigned my website again and how.",
+            "date": "Apr 12, 2026",
+            "topics": ["Programming"]
+        },
+        {
+            "title": "Looking for Answers",
+            "subtitle": "An exploration of media in search of what I am looking for.",
+            "date": "Feb 27, 2025",
+            "topics": ["Film", "Manga", "Music", "Introspection"]
+        }
+    ]
+}

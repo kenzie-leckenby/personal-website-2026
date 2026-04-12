@@ -1,0 +1,17 @@
+import MdxLayout from '@/components/mdxLayout'
+import BlogHeader from '@/components/blogHeader'
+
+<BlogHeader title="Redoing my Website for 2026" />
+
+My previous website was made using React Remix which I found surprisingly unintuitive.
+But recently, I was tasked with making a website for a class project and decided to tryout React Next.js this time.
+And low and behold, it made significantly more sense to me, especially when it came to routing.
+Which is part of the reason I actually committed to making a working blog this time.
+
+For now, the Apps page is going to lead to nowhere.
+I have a plan to eventually add the Kanji studying site I have been working on.
+But, that is not necessarily a near term goal and is not part of this little sprint I did to finish this site.
+
+export default function MDXPage({ children }) {
+  return <MdxLayout>{children}</MdxLayout>
+}
