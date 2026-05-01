@@ -1,8 +1,16 @@
 {
     "projects": [
         {
+            "name": "WitchCraft",
+            "dateStart": "Jan 2026",
+            "dateEnd": "May 2026",
+            "description": "A semester long group project aimed at creating a VR game of our own design and implementation",
+            "skills": ["Godot", "GDScript", "OpenXRToolkit", "Music Composition"],
+            "githubUrl": "https://grumpykitten1.itch.io/witchcraft"
+        },
+        {
             "name": "Personal Website",
-            "dateStart": "April 2026",
+            "dateStart": "Apr 2026",
             "dateEnd": "May 2026",
             "description": "New personal website for the year of 2026 built on Next.js which features a blog and apps page for future expansion.",
             "skills": ["React.js", "Node.js", "MongoDB", "Material UI", "TypeScript", "Next.js"],
