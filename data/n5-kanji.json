@@ -1,0 +1,221 @@
+{
+    "n5Kanji": [
+        {
+            "kanji": "日",
+            "meaning": ["day", "sun", "Japan", "counter for days"],
+            "kunyomi": ["ひ", "‐び", "-か"],
+            "onoymi": ["ニチ", "ジツ"],
+            "onyomiReadingCompounds": [
+                {
+                    "kanji": "日時",
+                    "furigana": "ニチジ",
+                    "meaning": "date and time (of a meeting, departure, etc.)"
+                },
+                {
+                    "kanji": "本日",
+                    "furigana": "ほんジツ",
+                    "meaning": "today"
+                }
+            ],
+            "kunyomiReadingCompounds": [
+                {
+                    "kanji": "あくる日",
+                    "furigana": "あくるひ",
+                    "meaning": "next day"
+                },
+                {
+                    "kanji": "日々",
+                    "furigana": "ひび",
+                    "meaning": ""
+                },
+                {
+                    "kanji": "二日",
+                    "furigana": "ふつか",
+                    "meaning": "2nd day of the month"
+                }
+            ],
+            "jishoLink": "https://jisho.org/search/%E6%97%A5%20%23kanji"
+        },
+        {
+            "kanji": "一",
+            "meaning": ["one"],
+            "kunyomi": ["ひと-", "ひと.つ"],
+            "onoymi": ["イチ", "イツ"],
+            "onyomiReadingCompounds": [
+                {
+                    "kanji": "一位",
+                    "furigana": "イチイ",
+                    "meaning": "first place"
+                },
+                {
+                    "kanji": "均一",
+                    "furigana": "キンイツ",
+                    "meaning": "equality"
+                }
+            ],
+            "kunyomiReadingCompounds": [
+                {
+                    "kanji": "一つ",
+                    "furigana": "ひとつ",
+                    "meaning": "one (thing)"
+                },
+                {
+                    "kanji": "一人で",
+                    "furigana": "ひとりで",
+                    "meaning": "alone"
+                }
+            ],
+            "jishoLink": "https://jisho.org/search/%E4%B8%80%20%23kanji"
+        },
+        {
+            "kanji": "人",
+            "meaning": ["person"],
+            "kunyomi": ["ひと", "-り", "-と"],
+            "onoymi": ["ジン", "ニン"],
+            "onyomiReadingCompounds": [
+                {
+                    "kanji": "米人",
+                    "furigana": "ベイジン",
+                    "meaning": "American person"
+                },
+                {
+                    "kanji": "人間",
+                    "furigana": "ニンゲン",
+                    "meaning": "human being"
+                }
+            ],
+            "kunyomiReadingCompounds": [
+                {
+                    "kanji": "いい人",
+                    "furigana": "いいひと",
+                    "meaning": " good-natured person"
+                },
+                {
+                    "kanji": "一人で",
+                    "furigana": "ひとりで",
+                    "meaning": "alone"
+                },
+                {
+                    "kanji": "鄙人",
+                    "furigana": "ひなびと",
+                    "meaning": "countryfolk"
+                }
+            ],
+            "jishoLink": "https://jisho.org/search/%E4%BA%BA%20%23kanji"
+        },
+        {
+            "kanji": "国",
+            "meaning": ["country"],
+            "kunyomi": ["くに"],
+            "onoymi": ["コク"],
+            "onyomiReadingCompounds": [
+                {
+                    "kanji": "外国",
+                    "furigana": "ガイコク",
+                    "meaning": "foreign country"
+                }
+            ],
+            "kunyomiReadingCompounds": [
+                {
+                    "kanji": "お国",
+                    "furigana": "おくに",
+                    "meaning": "your native country"
+                }
+            ],
+            "jishoLink": "https://jisho.org/search/%E5%9B%BD%20%23kanji"
+        },
+        {
+            "kanji": "年",
+            "meaning": ["year", "counter for years"],
+            "kunyomi": ["とし"],
+            "onoymi": ["ネン"],
+            "onyomiReadingCompounds": [
+                {
+                    "kanji": "来年",
+                    "furigana": "ライネン",
+                    "meaning": "next year"
+                }
+            ],
+            "kunyomiReadingCompounds": [
+                {
+                    "kanji": "年明け",
+                    "furigana": "としあけ",
+                    "meaning": "beginning of the year"
+                }
+            ],
+            "jishoLink": "https://jisho.org/search/%E5%B9%B4%20%23kanji"
+        },
+        {
+            "kanji": "大",
+            "meaning": ["large", "big"],
+            "kunyomi": ["おお-", "おお.きい", "-おお.いに"],
+            "onoymi": ["ダイ", "タイ"],
+            "onyomiReadingCompounds": [
+                {
+                    "kanji": "大学",
+                    "furigana": "ダイガク",
+                    "meaning": "university"
+                },
+                {
+                    "kanji": "大変",
+                    "furigana": "タイヘン",
+                    "meaning": "difficult"
+                }
+            ],
+            "kunyomiReadingCompounds": [
+                {
+                    "kanji": "大通り",
+                    "furigana": "おおどおり",
+                    "meaning": "main street"
+                },
+                {
+                    "kanji": "大きい",
+                    "furigana": "おおきい",
+                    "meaning": "large"
+                },
+                {
+                    "kanji": "",
+                    "furigana": "",
+                    "meaning": ""
+                }
+            ],
+            "jishoLink": ""
+        },
+        {
+            "kanji": "",
+            "meaning": ["", ""],
+            "kunyomi": ["", "", ""],
+            "onoymi": ["", ""],
+            "onyomiReadingCompounds": [
+                {
+                    "kanji": "",
+                    "furigana": "",
+                    "meaning": ""
+                },
+                {
+                    "kanji": "",
+                    "furigana": "",
+                    "meaning": ""
+                }
+            ],
+            "kunyomiReadingCompounds": [
+                {
+                    "kanji": "",
+                    "furigana": "",
+                    "meaning": ""
+                },
+                {
+                    "kanji": "",
+                    "furigana": "",
+                    "meaning": ""
+                },
+                {
+                    "kanji": "",
+                    "furigana": "",
+                    "meaning": ""
+                }
+            ],
+            "jishoLink": ""
+        },
+    ]
+}
