@@ -1,0 +1,7327 @@
+{
+  "jlpt_level": "N5",
+  "character_count": 79,
+  "characters": [
+    {
+      "character": "一",
+      "unicode": "4e00",
+      "jis208": "1-16-76",
+      "stroke_count": 1,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 2,
+      "radical": {
+        "classical": 1,
+        "nelson": null
+      },
+      "radical_components": [
+        "一"
+      ],
+      "meanings": {
+        "en": [
+          "one",
+          "one radical (no.1)"
+        ],
+        "fr": [
+          "un",
+          "radical un (no. 1)"
+        ],
+        "es": [
+          "uno",
+          "1"
+        ],
+        "pt": [
+          "um"
+        ]
+      },
+      "readings": {
+        "on": [
+          "イチ",
+          "イツ"
+        ],
+        "kun": [
+          "ひと-",
+          "ひと.つ"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "yi1"
+        ],
+        "korean_romanized": [
+          "il"
+        ],
+        "korean_hangul": [
+          "일"
+        ],
+        "vietnamese": [
+          "Nhất"
+        ]
+      },
+      "nanori": [
+        "かず",
+        "い",
+        "いっ",
+        "いる",
+        "かつ",
+        "かづ",
+        "てん",
+        "はじめ",
+        "ひ",
+        "ひとつ",
+        "まこと"
+      ],
+      "variants": [
+        {
+          "type": "jis208",
+          "value": "1-48-01"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "1",
+        "nelson_n": "1",
+        "halpern_njecd": "3341",
+        "halpern_kkld_2ed": "2850",
+        "heisig": "1",
+        "heisig6": "1",
+        "gakken": "4",
+        "oneill_kk": "1",
+        "moro": "1",
+        "henshall": "1",
+        "kodansha_compact": "1"
+      },
+      "query_codes": {
+        "skip": "4-1-4",
+        "sh_desc": "0a1.1",
+        "four_corner": "1000.0",
+        "deroo": "3072"
+      }
+    },
+    {
+      "character": "右",
+      "unicode": "53f3",
+      "jis208": "1-17-06",
+      "stroke_count": 5,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 602,
+      "radical": {
+        "classical": 30,
+        "nelson": null
+      },
+      "radical_components": [
+        "ノ",
+        "一",
+        "口"
+      ],
+      "meanings": {
+        "en": [
+          "right"
+        ],
+        "fr": [
+          "droite"
+        ],
+        "es": [
+          "derecha"
+        ],
+        "pt": [
+          "Direita"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ウ",
+          "ユウ"
+        ],
+        "kun": [
+          "みぎ"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "you4"
+        ],
+        "korean_romanized": [
+          "u"
+        ],
+        "korean_hangul": [
+          "우"
+        ],
+        "vietnamese": [
+          "Hữu"
+        ]
+      },
+      "nanori": [
+        "あき",
+        "すけ"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "878",
+        "nelson_n": "700",
+        "halpern_njecd": "2975",
+        "halpern_kkld_2ed": "2568",
+        "heisig": "78",
+        "heisig6": "82",
+        "gakken": "503",
+        "oneill_kk": "88",
+        "moro": "3250",
+        "henshall": "2",
+        "kodansha_compact": "277"
+      },
+      "query_codes": {
+        "skip": "3-2-3",
+        "sh_desc": "3d2.15",
+        "four_corner": "4060.0",
+        "deroo": "1477"
+      }
+    },
+    {
+      "character": "雨",
+      "unicode": "96e8",
+      "jis208": "1-17-11",
+      "stroke_count": 8,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 950,
+      "radical": {
+        "classical": 173,
+        "nelson": null
+      },
+      "radical_components": [
+        "雨"
+      ],
+      "meanings": {
+        "en": [
+          "rain"
+        ],
+        "fr": [
+          "pluie"
+        ],
+        "es": [
+          "lluvia"
+        ],
+        "pt": [
+          "chuva"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ウ"
+        ],
+        "kun": [
+          "あめ",
+          "あま-",
+          "-さめ"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "yu3",
+          "yu4"
+        ],
+        "korean_romanized": [
+          "u"
+        ],
+        "korean_hangul": [
+          "우"
+        ],
+        "vietnamese": [
+          "Vũ",
+          "Vú"
+        ]
+      },
+      "nanori": [],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "5042",
+        "nelson_n": "6518",
+        "halpern_njecd": "3561",
+        "halpern_kkld_2ed": "2983",
+        "heisig": "422",
+        "heisig6": "451",
+        "gakken": "655",
+        "oneill_kk": "114",
+        "moro": "42210",
+        "henshall": "3",
+        "kodansha_compact": "1858"
+      },
+      "query_codes": {
+        "skip": "4-8-1",
+        "sh_desc": "8d0.1",
+        "four_corner": "1022.7",
+        "deroo": "3153"
+      }
+    },
+    {
+      "character": "円",
+      "unicode": "5186",
+      "jis208": "1-17-63",
+      "stroke_count": 4,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 69,
+      "radical": {
+        "classical": 13,
+        "nelson": null
+      },
+      "radical_components": [
+        "冂",
+        "亠",
+        "一",
+        "｜"
+      ],
+      "meanings": {
+        "en": [
+          "circle",
+          "yen",
+          "round"
+        ],
+        "fr": [
+          "cercle",
+          "yen",
+          "rond"
+        ],
+        "es": [
+          "circular",
+          "redondo",
+          "yen"
+        ],
+        "pt": [
+          "círculo",
+          "iene",
+          "redondo"
+        ]
+      },
+      "readings": {
+        "on": [
+          "エン"
+        ],
+        "kun": [
+          "まる.い",
+          "まる",
+          "まど",
+          "まど.か",
+          "まろ.やか"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "yuan2"
+        ],
+        "korean_romanized": [
+          "weon"
+        ],
+        "korean_hangul": [
+          "원"
+        ],
+        "vietnamese": [
+          "Viên"
+        ]
+      },
+      "nanori": [
+        "つぶら",
+        "のぶ",
+        "まどか",
+        "みつ"
+      ],
+      "variants": [
+        {
+          "type": "jis208",
+          "value": "1-52-04"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "617",
+        "nelson_n": "385",
+        "halpern_njecd": "2955",
+        "halpern_kkld_2ed": "2555",
+        "heisig": "1811",
+        "heisig6": "1952",
+        "gakken": "2",
+        "oneill_kk": "159",
+        "moro": "1513",
+        "henshall": "4",
+        "kodansha_compact": "159"
+      },
+      "query_codes": {
+        "skip": "3-2-2",
+        "sh_desc": "2r2.1",
+        "four_corner": "7722.0",
+        "deroo": "3645"
+      }
+    },
+    {
+      "character": "下",
+      "unicode": "4e0b",
+      "jis208": "1-18-28",
+      "stroke_count": 3,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 97,
+      "radical": {
+        "classical": 1,
+        "nelson": null
+      },
+      "radical_components": [
+        "｜",
+        "一",
+        "卜"
+      ],
+      "meanings": {
+        "en": [
+          "below",
+          "down",
+          "descend",
+          "give",
+          "low",
+          "inferior"
+        ],
+        "fr": [
+          "au-dessous",
+          "descendre",
+          "bas",
+          "donner (vous me donnez)",
+          "inférieur"
+        ],
+        "es": [
+          "debajo",
+          "inferior",
+          "debajo de",
+          "parte inferior"
+        ],
+        "pt": [
+          "baixo",
+          "abaixo",
+          "descende",
+          "inferior",
+          "sub",
+          "sob"
+        ]
+      },
+      "readings": {
+        "on": [
+          "カ",
+          "ゲ"
+        ],
+        "kun": [
+          "した",
+          "しも",
+          "もと",
+          "さ.げる",
+          "さ.がる",
+          "くだ.る",
+          "くだ.り",
+          "くだ.す",
+          "-くだ.す",
+          "くだ.さる",
+          "お.ろす",
+          "お.りる"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "xia4"
+        ],
+        "korean_romanized": [
+          "ha"
+        ],
+        "korean_hangul": [
+          "하"
+        ],
+        "vietnamese": [
+          "Hạ",
+          "Há"
+        ]
+      },
+      "nanori": [
+        "さか",
+        "しと"
+      ],
+      "variants": [
+        {
+          "type": "jis212",
+          "value": "1-16-03"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "9",
+        "nelson_n": "9",
+        "halpern_njecd": "3378",
+        "halpern_kkld_2ed": "2862",
+        "heisig": "50",
+        "heisig6": "51",
+        "gakken": "72",
+        "oneill_kk": "30",
+        "moro": "14",
+        "henshall": "7",
+        "kodansha_compact": "4"
+      },
+      "query_codes": {
+        "skip": "4-3-1",
+        "sh_desc": "2m1.2",
+        "four_corner": "1023.0",
+        "deroo": "3154"
+      }
+    },
+    {
+      "character": "何",
+      "unicode": "4f55",
+      "jis208": "1-18-31",
+      "stroke_count": 7,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 340,
+      "radical": {
+        "classical": 9,
+        "nelson": null
+      },
+      "radical_components": [
+        "化",
+        "口",
+        "亅",
+        "一"
+      ],
+      "meanings": {
+        "en": [
+          "what"
+        ],
+        "fr": [
+          "quoi"
+        ],
+        "es": [
+          "qué"
+        ],
+        "pt": [
+          "que"
+        ]
+      },
+      "readings": {
+        "on": [
+          "カ"
+        ],
+        "kun": [
+          "なに",
+          "なん",
+          "なに-",
+          "なん-"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "he2",
+          "he4"
+        ],
+        "korean_romanized": [
+          "ha"
+        ],
+        "korean_hangul": [
+          "하"
+        ],
+        "vietnamese": [
+          "Hà"
+        ]
+      },
+      "nanori": [
+        "あが"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "409",
+        "nelson_n": "169",
+        "halpern_njecd": "65",
+        "halpern_kkld_2ed": "48",
+        "heisig": "1012",
+        "heisig6": "1087",
+        "gakken": "471",
+        "oneill_kk": "254",
+        "moro": "511",
+        "henshall": "80",
+        "kodansha_compact": "73"
+      },
+      "query_codes": {
+        "skip": "1-2-5",
+        "sh_desc": "2a5.21",
+        "four_corner": "2122.0",
+        "deroo": "2149"
+      }
+    },
+    {
+      "character": "火",
+      "unicode": "706b",
+      "jis208": "1-18-48",
+      "stroke_count": 4,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 574,
+      "radical": {
+        "classical": 86,
+        "nelson": null
+      },
+      "radical_components": [
+        "火"
+      ],
+      "meanings": {
+        "en": [
+          "fire"
+        ],
+        "fr": [
+          "feu"
+        ],
+        "es": [
+          "fuego",
+          "flama",
+          "llama"
+        ],
+        "pt": [
+          "fogo"
+        ]
+      },
+      "readings": {
+        "on": [
+          "カ"
+        ],
+        "kun": [
+          "ひ",
+          "-び",
+          "ほ-"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "huo3"
+        ],
+        "korean_romanized": [
+          "hwa"
+        ],
+        "korean_hangul": [
+          "화"
+        ],
+        "vietnamese": [
+          "Hỏa"
+        ]
+      },
+      "nanori": [],
+      "variants": [
+        {
+          "type": "jis212",
+          "value": "1-16-60"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "2743",
+        "nelson_n": "3394",
+        "halpern_njecd": "3463",
+        "halpern_kkld_2ed": "2911",
+        "heisig": "161",
+        "heisig6": "173",
+        "gakken": "432",
+        "oneill_kk": "15",
+        "moro": "18850",
+        "henshall": "8",
+        "kodansha_compact": "1260"
+      },
+      "query_codes": {
+        "skip": "4-4-4",
+        "sh_desc": "4d0.1",
+        "four_corner": "9080.0",
+        "deroo": "1162"
+      }
+    },
+    {
+      "character": "外",
+      "unicode": "5916",
+      "jis208": "1-19-16",
+      "stroke_count": 5,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 81,
+      "radical": {
+        "classical": 36,
+        "nelson": null
+      },
+      "radical_components": [
+        "卜",
+        "夕"
+      ],
+      "meanings": {
+        "en": [
+          "outside"
+        ],
+        "fr": [
+          "extérieur"
+        ],
+        "es": [
+          "fuera",
+          "exterior",
+          "otro",
+          "desatar",
+          "estar desatado",
+          "estar desconectado"
+        ],
+        "pt": [
+          "Exterior"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ガイ",
+          "ゲ"
+        ],
+        "kun": [
+          "そと",
+          "ほか",
+          "はず.す",
+          "はず.れる",
+          "と-"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "wai4"
+        ],
+        "korean_romanized": [
+          "oe"
+        ],
+        "korean_hangul": [
+          "외"
+        ],
+        "vietnamese": [
+          "Ngoại"
+        ]
+      },
+      "nanori": [
+        "うい",
+        "け",
+        "ふか"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "1168",
+        "nelson_n": "1125",
+        "halpern_njecd": "186",
+        "halpern_kkld_2ed": "163",
+        "heisig": "111",
+        "heisig6": "116",
+        "gakken": "120",
+        "oneill_kk": "42",
+        "moro": "5750",
+        "henshall": "91",
+        "kodansha_compact": "404"
+      },
+      "query_codes": {
+        "skip": "1-3-2",
+        "sh_desc": "2m3.1",
+        "four_corner": "2320.0",
+        "deroo": "2554"
+      }
+    },
+    {
+      "character": "学",
+      "unicode": "5b66",
+      "jis208": "1-19-56",
+      "stroke_count": 8,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 63,
+      "radical": {
+        "classical": 39,
+        "nelson": null
+      },
+      "radical_components": [
+        "子",
+        "尚",
+        "冖"
+      ],
+      "meanings": {
+        "en": [
+          "study",
+          "learning",
+          "science"
+        ],
+        "fr": [
+          "étudier",
+          "apprendre",
+          "science"
+        ],
+        "es": [
+          "estudio",
+          "aprendizaje",
+          "ciencia",
+          "estudiar"
+        ],
+        "pt": [
+          "estudo",
+          "aprendizagem",
+          "ciência"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ガク"
+        ],
+        "kun": [
+          "まな.ぶ"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "xue2"
+        ],
+        "korean_romanized": [
+          "hag"
+        ],
+        "korean_hangul": [
+          "학"
+        ],
+        "vietnamese": [
+          "Học"
+        ]
+      },
+      "nanori": [
+        "たか",
+        "のり"
+      ],
+      "variants": [
+        {
+          "type": "jis208",
+          "value": "1-53-60"
+        },
+        {
+          "type": "jis208",
+          "value": "1-53-61"
+        },
+        {
+          "type": "jis212",
+          "value": "1-33-55"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "1271",
+        "nelson_n": "1294",
+        "halpern_njecd": "2555",
+        "halpern_kkld_2ed": "2211",
+        "heisig": "324",
+        "heisig6": "346",
+        "gakken": "33",
+        "oneill_kk": "66",
+        "moro": "6974",
+        "henshall": "10",
+        "kodansha_compact": "460"
+      },
+      "query_codes": {
+        "skip": "2-5-3",
+        "sh_desc": "3n4.2",
+        "four_corner": "3240.7",
+        "deroo": "947"
+      }
+    },
+    {
+      "character": "間",
+      "unicode": "9593",
+      "jis208": "1-20-54",
+      "stroke_count": 12,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 33,
+      "radical": {
+        "classical": 169,
+        "nelson": null
+      },
+      "radical_components": [
+        "日",
+        "門"
+      ],
+      "meanings": {
+        "en": [
+          "interval",
+          "space"
+        ],
+        "fr": [
+          "intervalle",
+          "espace"
+        ],
+        "es": [
+          "intervalo",
+          "espacio",
+          "habitación"
+        ],
+        "pt": [
+          "intervalo",
+          "espaço"
+        ]
+      },
+      "readings": {
+        "on": [
+          "カン",
+          "ケン"
+        ],
+        "kun": [
+          "あいだ",
+          "ま",
+          "あい"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "jian1",
+          "jian4"
+        ],
+        "korean_romanized": [
+          "gan"
+        ],
+        "korean_hangul": [
+          "간"
+        ],
+        "vietnamese": [
+          "Gian"
+        ]
+      },
+      "nanori": [
+        "ちか",
+        "は",
+        "はざ",
+        "はし"
+      ],
+      "variants": [
+        {
+          "type": "deroo",
+          "value": "3853"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "4949",
+        "nelson_n": "6391",
+        "halpern_njecd": "3323",
+        "halpern_kkld_2ed": "2836",
+        "heisig": "1620",
+        "heisig6": "1747",
+        "gakken": "27",
+        "oneill_kk": "174",
+        "moro": "41249",
+        "henshall": "92",
+        "kodansha_compact": "1841"
+      },
+      "query_codes": {
+        "skip": "3-8-4",
+        "sh_desc": "8e4.3",
+        "four_corner": "7760.7",
+        "deroo": "3878"
+      }
+    },
+    {
+      "character": "気",
+      "unicode": "6c17",
+      "jis208": "1-21-04",
+      "stroke_count": 6,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 113,
+      "radical": {
+        "classical": 84,
+        "nelson": null
+      },
+      "radical_components": [
+        "气",
+        "丶",
+        "ノ",
+        "乞"
+      ],
+      "meanings": {
+        "en": [
+          "spirit",
+          "mind",
+          "air",
+          "atmosphere",
+          "mood"
+        ],
+        "fr": [
+          "esprit",
+          "air",
+          "atmosphère",
+          "humeur"
+        ],
+        "es": [
+          "espíritu",
+          "mente"
+        ],
+        "pt": [
+          "espírito",
+          "mente"
+        ]
+      },
+      "readings": {
+        "on": [
+          "キ",
+          "ケ"
+        ],
+        "kun": [
+          "いき",
+          "き"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "qi4"
+        ],
+        "korean_romanized": [
+          "gi"
+        ],
+        "korean_hangul": [
+          "기"
+        ],
+        "vietnamese": [
+          "Khí"
+        ]
+      },
+      "nanori": [],
+      "variants": [
+        {
+          "type": "jis208",
+          "value": "1-61-70"
+        },
+        {
+          "type": "jis212",
+          "value": "1-41-41"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "2480",
+        "nelson_n": "3025",
+        "halpern_njecd": "3194",
+        "halpern_kkld_2ed": "2751",
+        "heisig": "1885",
+        "heisig6": "2030",
+        "gakken": "77",
+        "oneill_kk": "144",
+        "moro": "17046P",
+        "henshall": "11",
+        "kodansha_compact": "1150"
+      },
+      "query_codes": {
+        "skip": "3-4-2",
+        "sh_desc": "0a6.8",
+        "four_corner": "8041.7",
+        "deroo": "2356"
+      }
+    },
+    {
+      "character": "休",
+      "unicode": "4f11",
+      "jis208": "1-21-57",
+      "stroke_count": 6,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 642,
+      "radical": {
+        "classical": 9,
+        "nelson": null
+      },
+      "radical_components": [
+        "化",
+        "木"
+      ],
+      "meanings": {
+        "en": [
+          "rest",
+          "day off",
+          "retire",
+          "sleep"
+        ],
+        "fr": [
+          "repos",
+          "jour de repos",
+          "se coucher",
+          "dormir"
+        ],
+        "es": [
+          "descanso",
+          "descansar",
+          "tomarse un descanso",
+          "estar descansado",
+          "dar descanso"
+        ],
+        "pt": [
+          "descanso",
+          "dia desligado",
+          "aposentar",
+          "sono"
+        ]
+      },
+      "readings": {
+        "on": [
+          "キュウ"
+        ],
+        "kun": [
+          "やす.む",
+          "やす.まる",
+          "やす.める"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "xiu1"
+        ],
+        "korean_romanized": [
+          "hyu"
+        ],
+        "korean_hangul": [
+          "휴"
+        ],
+        "vietnamese": [
+          "Hưu"
+        ]
+      },
+      "nanori": [],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "380",
+        "nelson_n": "142",
+        "halpern_njecd": "52",
+        "halpern_kkld_2ed": "37",
+        "heisig": "965",
+        "heisig6": "1038",
+        "gakken": "583",
+        "oneill_kk": "153",
+        "moro": "440",
+        "henshall": "13",
+        "kodansha_compact": "64"
+      },
+      "query_codes": {
+        "skip": "1-2-4",
+        "sh_desc": "2a4.2",
+        "four_corner": "2429.0",
+        "deroo": "2164"
+      }
+    },
+    {
+      "character": "金",
+      "unicode": "91d1",
+      "jis208": "1-22-66",
+      "stroke_count": 8,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 53,
+      "radical": {
+        "classical": 167,
+        "nelson": null
+      },
+      "radical_components": [
+        "金",
+        "王",
+        "ハ",
+        "个",
+        "并"
+      ],
+      "meanings": {
+        "en": [
+          "gold"
+        ],
+        "fr": [
+          "or"
+        ],
+        "es": [
+          "oro",
+          "dinero",
+          "metal"
+        ],
+        "pt": [
+          "ouro"
+        ]
+      },
+      "readings": {
+        "on": [
+          "キン",
+          "コン",
+          "ゴン"
+        ],
+        "kun": [
+          "かね",
+          "かな-",
+          "-がね"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "jin1"
+        ],
+        "korean_romanized": [
+          "gim",
+          "geum"
+        ],
+        "korean_hangul": [
+          "김",
+          "금"
+        ],
+        "vietnamese": [
+          "Kim"
+        ]
+      },
+      "nanori": [
+        "かん",
+        "きむ",
+        "こ",
+        "この",
+        "ん"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "4815",
+        "nelson_n": "6211",
+        "halpern_njecd": "2057",
+        "halpern_kkld_2ed": "1771",
+        "heisig": "269",
+        "heisig6": "287",
+        "gakken": "59",
+        "oneill_kk": "18",
+        "moro": "40152",
+        "henshall": "14",
+        "kodansha_compact": "1808"
+      },
+      "query_codes": {
+        "skip": "2-2-6",
+        "sh_desc": "8a0.1",
+        "four_corner": "8010.9",
+        "deroo": "2872"
+      }
+    },
+    {
+      "character": "九",
+      "unicode": "4e5d",
+      "jis208": "1-22-69",
+      "stroke_count": 2,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 55,
+      "radical": {
+        "classical": 5,
+        "nelson": 4
+      },
+      "radical_components": [
+        "九"
+      ],
+      "meanings": {
+        "en": [
+          "nine"
+        ],
+        "fr": [
+          "neuf"
+        ],
+        "es": [
+          "nueve",
+          "9"
+        ],
+        "pt": [
+          "nove"
+        ]
+      },
+      "readings": {
+        "on": [
+          "キュウ",
+          "ク"
+        ],
+        "kun": [
+          "ここの",
+          "ここの.つ"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "jiu3"
+        ],
+        "korean_romanized": [
+          "gu",
+          "gyu"
+        ],
+        "korean_hangul": [
+          "구",
+          "규"
+        ],
+        "vietnamese": [
+          "Cửu",
+          "Cưu"
+        ]
+      },
+      "nanori": [
+        "いちじく",
+        "いちのく",
+        "この",
+        "ひさし"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "146",
+        "nelson_n": "57",
+        "halpern_njecd": "3369",
+        "halpern_kkld_2ed": "2858",
+        "heisig": "9",
+        "heisig6": "9",
+        "gakken": "58",
+        "oneill_kk": "11",
+        "moro": "167",
+        "henshall": "12",
+        "kodansha_compact": "26"
+      },
+      "query_codes": {
+        "skip": "4-2-4",
+        "sh_desc": "0a2.15",
+        "four_corner": "4001.7",
+        "deroo": "1657"
+      }
+    },
+    {
+      "character": "月",
+      "unicode": "6708",
+      "jis208": "1-23-78",
+      "stroke_count": 4,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 23,
+      "radical": {
+        "classical": 74,
+        "nelson": null
+      },
+      "radical_components": [
+        "月"
+      ],
+      "meanings": {
+        "en": [
+          "month",
+          "moon"
+        ],
+        "fr": [
+          "lune",
+          "mois"
+        ],
+        "es": [
+          "mes",
+          "luna"
+        ],
+        "pt": [
+          "mês",
+          "lua"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ゲツ",
+          "ガツ"
+        ],
+        "kun": [
+          "つき"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "yue4"
+        ],
+        "korean_romanized": [
+          "weol"
+        ],
+        "korean_hangul": [
+          "월"
+        ],
+        "vietnamese": [
+          "Nguyệt"
+        ]
+      },
+      "nanori": [
+        "おと",
+        "がっ",
+        "す",
+        "ずき",
+        "もり"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "2169",
+        "nelson_n": "2530",
+        "halpern_njecd": "2956",
+        "halpern_kkld_2ed": "2556",
+        "heisig": "13",
+        "heisig6": "13",
+        "gakken": "26",
+        "oneill_kk": "13",
+        "moro": "14330",
+        "henshall": "16",
+        "kodansha_compact": "1002"
+      },
+      "query_codes": {
+        "skip": "3-2-2",
+        "sh_desc": "4b0.1",
+        "four_corner": "7722.0",
+        "deroo": "3946"
+      }
+    },
+    {
+      "character": "見",
+      "unicode": "898b",
+      "jis208": "1-24-11",
+      "stroke_count": 7,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 22,
+      "radical": {
+        "classical": 147,
+        "nelson": null
+      },
+      "radical_components": [
+        "見",
+        "目",
+        "儿"
+      ],
+      "meanings": {
+        "en": [
+          "see",
+          "hopes",
+          "chances",
+          "idea",
+          "opinion",
+          "look at",
+          "visible"
+        ],
+        "fr": [
+          "regarder",
+          "voir",
+          "visible",
+          "espoirs",
+          "chances",
+          "idée",
+          "opinion"
+        ],
+        "es": [
+          "vista",
+          "ver",
+          "esperanza",
+          "idea",
+          "opinión",
+          "observar",
+          "ser visto",
+          "estar a la vista",
+          "poder verse",
+          "mostrar"
+        ],
+        "pt": [
+          "ver",
+          "esperanças",
+          "oportunidades",
+          "idéia",
+          "opinião",
+          "olhar",
+          "visíveis"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ケン"
+        ],
+        "kun": [
+          "み.る",
+          "み.える",
+          "み.せる"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "jian4",
+          "xian4"
+        ],
+        "korean_romanized": [
+          "gyeon",
+          "hyeon"
+        ],
+        "korean_hangul": [
+          "견",
+          "현"
+        ],
+        "vietnamese": [
+          "Kiến",
+          "Hiện"
+        ]
+      },
+      "nanori": [],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "4284",
+        "nelson_n": "5522",
+        "halpern_njecd": "2544",
+        "halpern_kkld_2ed": "2201",
+        "heisig": "57",
+        "heisig6": "61",
+        "gakken": "48",
+        "oneill_kk": "23",
+        "moro": "34796",
+        "henshall": "18",
+        "kodansha_compact": "1643"
+      },
+      "query_codes": {
+        "skip": "2-5-2",
+        "sh_desc": "5c2.1",
+        "four_corner": "6021.0",
+        "deroo": "3957"
+      }
+    },
+    {
+      "character": "五",
+      "unicode": "4e94",
+      "jis208": "1-24-62",
+      "stroke_count": 4,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 31,
+      "radical": {
+        "classical": 7,
+        "nelson": 1
+      },
+      "radical_components": [
+        "五"
+      ],
+      "meanings": {
+        "en": [
+          "five"
+        ],
+        "fr": [
+          "cinq"
+        ],
+        "es": [
+          "cinco",
+          "5"
+        ],
+        "pt": [
+          "cinco"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ゴ"
+        ],
+        "kun": [
+          "いつ",
+          "いつ.つ"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "wu3"
+        ],
+        "korean_romanized": [
+          "o"
+        ],
+        "korean_hangul": [
+          "오"
+        ],
+        "vietnamese": [
+          "Ngũ"
+        ]
+      },
+      "nanori": [
+        "い",
+        "さ",
+        "さつ",
+        "ち",
+        "ふ",
+        "み",
+        "め"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "15",
+        "nelson_n": "77",
+        "halpern_njecd": "3436",
+        "halpern_kkld_2ed": "2892",
+        "heisig": "5",
+        "heisig6": "5",
+        "gakken": "14",
+        "oneill_kk": "7",
+        "moro": "257",
+        "henshall": "19",
+        "kodansha_compact": "32"
+      },
+      "query_codes": {
+        "skip": "4-4-1",
+        "sh_desc": "0a4.27",
+        "four_corner": "1010.7",
+        "deroo": "3173"
+      }
+    },
+    {
+      "character": "午",
+      "unicode": "5348",
+      "jis208": "1-24-65",
+      "stroke_count": 4,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 154,
+      "radical": {
+        "classical": 24,
+        "nelson": 4
+      },
+      "radical_components": [
+        "ノ",
+        "干",
+        "十",
+        "乞"
+      ],
+      "meanings": {
+        "en": [
+          "noon",
+          "sign of the horse",
+          "11AM-1PM",
+          "seventh sign of Chinese zodiac"
+        ],
+        "fr": [
+          "midi",
+          "signe de la 7ème branche terrestre",
+          "signe du Cheval (zodiaque)",
+          "11 h à 13 h",
+          "Sud (180°)"
+        ],
+        "es": [
+          "mediodía"
+        ],
+        "pt": [
+          "meio-dia"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ゴ"
+        ],
+        "kun": [
+          "うま"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "wu3"
+        ],
+        "korean_romanized": [
+          "o"
+        ],
+        "korean_hangul": [
+          "오"
+        ],
+        "vietnamese": [
+          "Ngọ"
+        ]
+      },
+      "nanori": [],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "162",
+        "nelson_n": "604",
+        "halpern_njecd": "1984",
+        "halpern_kkld_2ed": "1720",
+        "heisig": "568",
+        "heisig6": "610",
+        "gakken": "98",
+        "oneill_kk": "140",
+        "moro": "2703",
+        "henshall": "110",
+        "kodansha_compact": "241"
+      },
+      "query_codes": {
+        "skip": "2-2-2",
+        "sh_desc": "2k2.2",
+        "four_corner": "8040.0",
+        "deroo": "2355"
+      }
+    },
+    {
+      "character": "後",
+      "unicode": "5f8c",
+      "jis208": "1-24-69",
+      "stroke_count": 9,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 26,
+      "radical": {
+        "classical": 60,
+        "nelson": null
+      },
+      "radical_components": [
+        "夂",
+        "幺",
+        "彳"
+      ],
+      "meanings": {
+        "en": [
+          "behind",
+          "back",
+          "later"
+        ],
+        "fr": [
+          "après",
+          "derrière",
+          "plus tard"
+        ],
+        "es": [
+          "después",
+          "atrás",
+          "detrás",
+          "retrasarse"
+        ],
+        "pt": [
+          "atrás",
+          "costas",
+          "mais tarde"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ゴ",
+          "コウ"
+        ],
+        "kun": [
+          "のち",
+          "うし.ろ",
+          "うしろ",
+          "あと",
+          "おく.れる"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "hou4"
+        ],
+        "korean_romanized": [
+          "hu"
+        ],
+        "korean_hangul": [
+          "후"
+        ],
+        "vietnamese": [
+          "Hậu",
+          "Hấu"
+        ]
+      },
+      "nanori": [
+        "こし",
+        "し",
+        "しい",
+        "しり"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "1610",
+        "nelson_n": "1742",
+        "halpern_njecd": "361",
+        "halpern_kkld_2ed": "321",
+        "heisig": "1379",
+        "heisig6": "1479",
+        "gakken": "45",
+        "oneill_kk": "276",
+        "moro": "10098",
+        "henshall": "111",
+        "kodansha_compact": "625"
+      },
+      "query_codes": {
+        "skip": "1-3-6",
+        "sh_desc": "3i6.5",
+        "four_corner": "2224.7",
+        "deroo": "2067"
+      }
+    },
+    {
+      "character": "語",
+      "unicode": "8a9e",
+      "jis208": "1-24-76",
+      "stroke_count": 14,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 301,
+      "radical": {
+        "classical": 149,
+        "nelson": null
+      },
+      "radical_components": [
+        "言",
+        "口",
+        "五"
+      ],
+      "meanings": {
+        "en": [
+          "word",
+          "speech",
+          "language"
+        ],
+        "fr": [
+          "langage",
+          "mot",
+          "raconter"
+        ],
+        "es": [
+          "palabra",
+          "discurso",
+          "lenguaje",
+          "hablar",
+          "conversar",
+          "narrar"
+        ],
+        "pt": [
+          "palavra",
+          "discurso",
+          "língua"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ゴ"
+        ],
+        "kun": [
+          "かた.る",
+          "かた.らう"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "yu3",
+          "yu4"
+        ],
+        "korean_romanized": [
+          "eo"
+        ],
+        "korean_hangul": [
+          "어"
+        ],
+        "vietnamese": [
+          "Ngữ",
+          "Ngứ"
+        ]
+      },
+      "nanori": [],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "4374",
+        "nelson_n": "5628",
+        "halpern_njecd": "1543",
+        "halpern_kkld_2ed": "1402",
+        "heisig": "347",
+        "heisig6": "371",
+        "gakken": "274",
+        "oneill_kk": "231",
+        "moro": "35533",
+        "henshall": "112",
+        "kodansha_compact": "1685"
+      },
+      "query_codes": {
+        "skip": "1-7-7",
+        "sh_desc": "7a7.6",
+        "four_corner": "0166.1",
+        "deroo": "3077"
+      }
+    },
+    {
+      "character": "校",
+      "unicode": "6821",
+      "jis208": "1-25-27",
+      "stroke_count": 10,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 294,
+      "radical": {
+        "classical": 75,
+        "nelson": null
+      },
+      "radical_components": [
+        "父",
+        "木",
+        "亠"
+      ],
+      "meanings": {
+        "en": [
+          "exam",
+          "school",
+          "printing",
+          "proof",
+          "correction"
+        ],
+        "fr": [
+          "école",
+          "examen",
+          "impression",
+          "épreuve",
+          "correction"
+        ],
+        "es": [
+          "escuela",
+          "colegio",
+          "centro docente"
+        ],
+        "pt": [
+          "exame",
+          "escola",
+          "impressão",
+          "prova",
+          "correção"
+        ]
+      },
+      "readings": {
+        "on": [
+          "コウ",
+          "キョウ"
+        ],
+        "kun": []
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "xiao4",
+          "jiao4"
+        ],
+        "korean_romanized": [
+          "gyo",
+          "hyo"
+        ],
+        "korean_hangul": [
+          "교",
+          "효"
+        ],
+        "vietnamese": [
+          "Giáo",
+          "Hiệu",
+          "Hào"
+        ]
+      },
+      "nanori": [
+        "めん"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "2260",
+        "nelson_n": "2669",
+        "halpern_njecd": "929",
+        "halpern_kkld_2ed": "840",
+        "heisig": "1278",
+        "heisig6": "1371",
+        "gakken": "176",
+        "oneill_kk": "91",
+        "moro": "14713",
+        "henshall": "21",
+        "kodansha_compact": "1091"
+      },
+      "query_codes": {
+        "skip": "1-4-6",
+        "sh_desc": "4a6.24",
+        "four_corner": "4094.8",
+        "deroo": "1866"
+      }
+    },
+    {
+      "character": "行",
+      "unicode": "884c",
+      "jis208": "1-25-52",
+      "stroke_count": 6,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 20,
+      "radical": {
+        "classical": 144,
+        "nelson": null
+      },
+      "radical_components": [
+        "行",
+        "彳"
+      ],
+      "meanings": {
+        "en": [
+          "going",
+          "journey",
+          "carry out",
+          "conduct",
+          "act",
+          "line",
+          "row",
+          "bank"
+        ],
+        "fr": [
+          "aller",
+          "voyage"
+        ],
+        "es": [
+          "ir",
+          "fila",
+          "línea (texto)",
+          "ocurrencia",
+          "conducta",
+          "realizar",
+          "llevar a cabo",
+          "ocurrir"
+        ],
+        "pt": [
+          "ir",
+          "viagem",
+          "viajar"
+        ]
+      },
+      "readings": {
+        "on": [
+          "コウ",
+          "ギョウ",
+          "アン"
+        ],
+        "kun": [
+          "い.く",
+          "ゆ.く",
+          "-ゆ.き",
+          "-ゆき",
+          "-い.き",
+          "-いき",
+          "おこな.う",
+          "おこ.なう"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "xing2",
+          "hang2",
+          "hang4",
+          "xing4"
+        ],
+        "korean_romanized": [
+          "haeng",
+          "hang"
+        ],
+        "korean_hangul": [
+          "행",
+          "항"
+        ],
+        "vietnamese": [
+          "Hành",
+          "Hạnh",
+          "Hàng",
+          "Hạng"
+        ]
+      },
+      "nanori": [
+        "いく",
+        "なみ",
+        "なめ",
+        "みち",
+        "ゆき",
+        "ゆく"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "4213",
+        "nelson_n": "5419",
+        "halpern_njecd": "212",
+        "halpern_kkld_2ed": "187",
+        "heisig": "873",
+        "heisig6": "938",
+        "gakken": "31",
+        "oneill_kk": "24",
+        "moro": "34029",
+        "henshall": "118",
+        "kodansha_compact": "1613"
+      },
+      "query_codes": {
+        "skip": "1-3-3",
+        "sh_desc": "3i3.1",
+        "four_corner": "2122.1",
+        "deroo": "2053"
+      }
+    },
+    {
+      "character": "高",
+      "unicode": "9ad8",
+      "jis208": "1-25-66",
+      "stroke_count": 10,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 65,
+      "radical": {
+        "classical": 189,
+        "nelson": null
+      },
+      "radical_components": [
+        "口",
+        "高",
+        "亠",
+        "冂"
+      ],
+      "meanings": {
+        "en": [
+          "tall",
+          "high",
+          "expensive"
+        ],
+        "fr": [
+          "haut",
+          "élevé",
+          "grand",
+          "cher"
+        ],
+        "es": [
+          "alto",
+          "caro",
+          "sobresaliente",
+          "elevar",
+          "levantar"
+        ],
+        "pt": [
+          "Caro",
+          "alto"
+        ]
+      },
+      "readings": {
+        "on": [
+          "コウ"
+        ],
+        "kun": [
+          "たか.い",
+          "たか",
+          "-だか",
+          "たか.まる",
+          "たか.める"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "gao1"
+        ],
+        "korean_romanized": [
+          "go"
+        ],
+        "korean_hangul": [
+          "고"
+        ],
+        "vietnamese": [
+          "Cao"
+        ]
+      },
+      "nanori": [
+        "か",
+        "こ",
+        "じょい",
+        "た",
+        "はか"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "5248",
+        "nelson_n": "6796",
+        "halpern_njecd": "2097",
+        "halpern_kkld_2ed": "1803",
+        "heisig": "307",
+        "heisig6": "329",
+        "gakken": "49",
+        "oneill_kk": "160",
+        "moro": "45313",
+        "henshall": "119",
+        "kodansha_compact": "1924"
+      },
+      "query_codes": {
+        "skip": "2-2-8",
+        "sh_desc": "2j8.6",
+        "four_corner": "0022.7",
+        "deroo": "449"
+      }
+    },
+    {
+      "character": "国",
+      "unicode": "56fd",
+      "jis208": "1-25-81",
+      "stroke_count": 8,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 3,
+      "radical": {
+        "classical": 31,
+        "nelson": null
+      },
+      "radical_components": [
+        "王",
+        "囗",
+        "丶"
+      ],
+      "meanings": {
+        "en": [
+          "country"
+        ],
+        "fr": [
+          "pays"
+        ],
+        "es": [
+          "país"
+        ],
+        "pt": [
+          "País",
+          "terra",
+          "nação"
+        ]
+      },
+      "readings": {
+        "on": [
+          "コク"
+        ],
+        "kun": [
+          "くに"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "guo2"
+        ],
+        "korean_romanized": [
+          "gug"
+        ],
+        "korean_hangul": [
+          "국"
+        ],
+        "vietnamese": [
+          "Quốc",
+          "Cuốc"
+        ]
+      },
+      "nanori": [
+        "くな",
+        "こ"
+      ],
+      "variants": [
+        {
+          "type": "jis208",
+          "value": "1-52-02"
+        },
+        {
+          "type": "jis208",
+          "value": "1-51-91"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "1037",
+        "nelson_n": "950",
+        "halpern_njecd": "3087",
+        "halpern_kkld_2ed": "2659",
+        "heisig": "581",
+        "heisig6": "624",
+        "gakken": "8",
+        "oneill_kk": "111",
+        "moro": "4752",
+        "henshall": "123",
+        "kodansha_compact": "344"
+      },
+      "query_codes": {
+        "skip": "3-3-5",
+        "sh_desc": "3s5.1",
+        "four_corner": "6010.3",
+        "deroo": "3172"
+      }
+    },
+    {
+      "character": "今",
+      "unicode": "4eca",
+      "jis208": "1-26-03",
+      "stroke_count": 4,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 49,
+      "radical": {
+        "classical": 9,
+        "nelson": null
+      },
+      "radical_components": [
+        "个",
+        "一"
+      ],
+      "meanings": {
+        "en": [
+          "now"
+        ],
+        "fr": [
+          "maintenant"
+        ],
+        "es": [
+          "ahora",
+          "momento actual"
+        ],
+        "pt": [
+          "agora"
+        ]
+      },
+      "readings": {
+        "on": [
+          "コン",
+          "キン"
+        ],
+        "kun": [
+          "いま"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "jin1"
+        ],
+        "korean_romanized": [
+          "geum"
+        ],
+        "korean_hangul": [
+          "금"
+        ],
+        "vietnamese": [
+          "Kim"
+        ]
+      },
+      "nanori": [
+        "な"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "352",
+        "nelson_n": "112",
+        "halpern_njecd": "1968",
+        "halpern_kkld_2ed": "1712",
+        "heisig": "1587",
+        "heisig6": "1711",
+        "gakken": "146",
+        "oneill_kk": "94",
+        "moro": "358",
+        "henshall": "125",
+        "kodansha_compact": "45"
+      },
+      "query_codes": {
+        "skip": "2-2-2",
+        "sh_desc": "2a2.10",
+        "four_corner": "8020.7",
+        "deroo": "2860"
+      }
+    },
+    {
+      "character": "左",
+      "unicode": "5de6",
+      "jis208": "1-26-24",
+      "stroke_count": 5,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 630,
+      "radical": {
+        "classical": 48,
+        "nelson": null
+      },
+      "radical_components": [
+        "ノ",
+        "一",
+        "工"
+      ],
+      "meanings": {
+        "en": [
+          "left"
+        ],
+        "fr": [
+          "gauche"
+        ],
+        "es": [
+          "izquierda"
+        ],
+        "pt": [
+          "Esquerda"
+        ]
+      },
+      "readings": {
+        "on": [
+          "サ",
+          "シャ"
+        ],
+        "kun": [
+          "ひだり"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "zuo3"
+        ],
+        "korean_romanized": [
+          "jwa"
+        ],
+        "korean_hangul": [
+          "좌"
+        ],
+        "vietnamese": [
+          "Tả",
+          "Tá"
+        ]
+      },
+      "nanori": [
+        "そ"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "1455",
+        "nelson_n": "1535",
+        "halpern_njecd": "2974",
+        "halpern_kkld_2ed": "2567",
+        "heisig": "77",
+        "heisig6": "81",
+        "gakken": "477",
+        "oneill_kk": "87",
+        "moro": "8720",
+        "henshall": "22",
+        "kodansha_compact": "552"
+      },
+      "query_codes": {
+        "skip": "3-2-3",
+        "sh_desc": "0a5.20",
+        "four_corner": "4001.1",
+        "deroo": "1472"
+      }
+    },
+    {
+      "character": "三",
+      "unicode": "4e09",
+      "jis208": "1-27-16",
+      "stroke_count": 3,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 14,
+      "radical": {
+        "classical": 1,
+        "nelson": null
+      },
+      "radical_components": [
+        "一",
+        "二"
+      ],
+      "meanings": {
+        "en": [
+          "three"
+        ],
+        "fr": [
+          "trois"
+        ],
+        "es": [
+          "tres",
+          "3"
+        ],
+        "pt": [
+          "três"
+        ]
+      },
+      "readings": {
+        "on": [
+          "サン",
+          "ゾウ"
+        ],
+        "kun": [
+          "み",
+          "み.つ",
+          "みっ.つ"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "san1"
+        ],
+        "korean_romanized": [
+          "sam"
+        ],
+        "korean_hangul": [
+          "삼"
+        ],
+        "vietnamese": [
+          "Tam",
+          "Tám"
+        ]
+      },
+      "nanori": [
+        "か",
+        "さ",
+        "さい",
+        "さえ",
+        "さぶ",
+        "ざ",
+        "ざえ",
+        "ざぶ",
+        "そう",
+        "ぞ",
+        "ただ",
+        "みつ",
+        "みん",
+        "も",
+        "や"
+      ],
+      "variants": [
+        {
+          "type": "jis212",
+          "value": "1-28-64"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "8",
+        "nelson_n": "8",
+        "halpern_njecd": "1924",
+        "halpern_kkld_2ed": "1689",
+        "heisig": "3",
+        "heisig6": "3",
+        "gakken": "10",
+        "oneill_kk": "3",
+        "moro": "12",
+        "henshall": "23",
+        "kodansha_compact": "5"
+      },
+      "query_codes": {
+        "skip": "2-1-2",
+        "sh_desc": "0a3.1",
+        "four_corner": "1010.1",
+        "deroo": "3072"
+      }
+    },
+    {
+      "character": "山",
+      "unicode": "5c71",
+      "jis208": "1-27-19",
+      "stroke_count": 3,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 131,
+      "radical": {
+        "classical": 46,
+        "nelson": null
+      },
+      "radical_components": [
+        "山"
+      ],
+      "meanings": {
+        "en": [
+          "mountain"
+        ],
+        "fr": [
+          "montagne"
+        ],
+        "es": [
+          "montaña"
+        ],
+        "pt": [
+          "montanha"
+        ]
+      },
+      "readings": {
+        "on": [
+          "サン",
+          "セン"
+        ],
+        "kun": [
+          "やま"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "shan1"
+        ],
+        "korean_romanized": [
+          "san"
+        ],
+        "korean_hangul": [
+          "산"
+        ],
+        "vietnamese": [
+          "San",
+          "Sơn"
+        ]
+      },
+      "nanori": [
+        "さ",
+        "やの",
+        "やん"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "1407",
+        "nelson_n": "1439",
+        "halpern_njecd": "2940",
+        "halpern_kkld_2ed": "2544",
+        "heisig": "768",
+        "heisig6": "830",
+        "gakken": "60",
+        "oneill_kk": "21",
+        "moro": "7869",
+        "henshall": "24",
+        "kodansha_compact": "535"
+      },
+      "query_codes": {
+        "skip": "3-2-1",
+        "sh_desc": "3o0.1",
+        "four_corner": "2277.0",
+        "deroo": "1276"
+      }
+    },
+    {
+      "character": "四",
+      "unicode": "56db",
+      "jis208": "1-27-45",
+      "stroke_count": 5,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 47,
+      "radical": {
+        "classical": 31,
+        "nelson": null
+      },
+      "radical_components": [
+        "儿",
+        "囗"
+      ],
+      "meanings": {
+        "en": [
+          "four"
+        ],
+        "fr": [
+          "quatre"
+        ],
+        "es": [
+          "cuatro",
+          "4"
+        ],
+        "pt": [
+          "quatro"
+        ]
+      },
+      "readings": {
+        "on": [
+          "シ"
+        ],
+        "kun": [
+          "よ",
+          "よ.つ",
+          "よっ.つ",
+          "よん"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "si4"
+        ],
+        "korean_romanized": [
+          "sa"
+        ],
+        "korean_hangul": [
+          "사"
+        ],
+        "vietnamese": [
+          "Tứ"
+        ]
+      },
+      "nanori": [
+        "あ",
+        "つ",
+        "よつ"
+      ],
+      "variants": [
+        {
+          "type": "jis212",
+          "value": "1-16-30"
+        },
+        {
+          "type": "deroo",
+          "value": "1257"
+        },
+        {
+          "type": "deroo",
+          "value": "2057"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "1025",
+        "nelson_n": "938",
+        "halpern_njecd": "3044",
+        "halpern_kkld_2ed": "2620",
+        "heisig": "4",
+        "heisig6": "4",
+        "gakken": "18",
+        "oneill_kk": "6",
+        "moro": "4682",
+        "henshall": "26",
+        "kodansha_compact": "335"
+      },
+      "query_codes": {
+        "skip": "3-3-2",
+        "sh_desc": "3s2.2",
+        "four_corner": "6021.0",
+        "deroo": "3675"
+      }
+    },
+    {
+      "character": "子",
+      "unicode": "5b50",
+      "jis208": "1-27-50",
+      "stroke_count": 3,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 72,
+      "radical": {
+        "classical": 39,
+        "nelson": null
+      },
+      "radical_components": [
+        "子"
+      ],
+      "meanings": {
+        "en": [
+          "child",
+          "sign of the rat",
+          "11PM-1AM",
+          "first sign of Chinese zodiac"
+        ],
+        "fr": [
+          "enfant",
+          "signe de la 1ère branche terrestre",
+          "signe du Rat (zodiaque)",
+          "23 h à 01 h",
+          "Nord (0°)"
+        ],
+        "es": [
+          "chiquillo",
+          "niño"
+        ],
+        "pt": [
+          "criança"
+        ]
+      },
+      "readings": {
+        "on": [
+          "シ",
+          "ス",
+          "ツ"
+        ],
+        "kun": [
+          "こ",
+          "-こ",
+          "ね"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "zi3",
+          "zi2",
+          "zi5"
+        ],
+        "korean_romanized": [
+          "ja"
+        ],
+        "korean_hangul": [
+          "자"
+        ],
+        "vietnamese": [
+          "Tử",
+          "Tý"
+        ]
+      },
+      "nanori": [
+        "い",
+        "き",
+        "ぎ",
+        "く",
+        "け",
+        "ねっ"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "1264",
+        "nelson_n": "1281",
+        "halpern_njecd": "3390",
+        "halpern_kkld_2ed": "2872",
+        "heisig": "95",
+        "heisig6": "99",
+        "gakken": "56",
+        "oneill_kk": "61",
+        "moro": "6930",
+        "henshall": "25",
+        "kodansha_compact": "455"
+      },
+      "query_codes": {
+        "skip": "4-3-1",
+        "sh_desc": "2c0.1",
+        "four_corner": "1740.7",
+        "deroo": "3547"
+      }
+    },
+    {
+      "character": "時",
+      "unicode": "6642",
+      "jis208": "1-27-94",
+      "stroke_count": 10,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 16,
+      "radical": {
+        "classical": 72,
+        "nelson": null
+      },
+      "radical_components": [
+        "寸",
+        "土",
+        "日"
+      ],
+      "meanings": {
+        "en": [
+          "time",
+          "hour"
+        ],
+        "fr": [
+          "temps",
+          "heure"
+        ],
+        "es": [
+          "tiempo",
+          "hora",
+          "ocasión"
+        ],
+        "pt": [
+          "tempo",
+          "hora"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ジ"
+        ],
+        "kun": [
+          "とき",
+          "-どき"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "shi2"
+        ],
+        "korean_romanized": [
+          "si"
+        ],
+        "korean_hangul": [
+          "시"
+        ],
+        "vietnamese": [
+          "Thì",
+          "Thời"
+        ]
+      },
+      "nanori": [
+        "と",
+        "とぎ"
+      ],
+      "variants": [
+        {
+          "type": "jis212",
+          "value": "1-33-82"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "2126",
+        "nelson_n": "2462",
+        "halpern_njecd": "924",
+        "halpern_kkld_2ed": "830",
+        "heisig": "159",
+        "heisig6": "171",
+        "gakken": "19",
+        "oneill_kk": "46",
+        "moro": "13890",
+        "henshall": "135",
+        "kodansha_compact": "988"
+      },
+      "query_codes": {
+        "skip": "1-4-6",
+        "sh_desc": "4c6.2",
+        "four_corner": "6404.1",
+        "deroo": "3848"
+      }
+    },
+    {
+      "character": "七",
+      "unicode": "4e03",
+      "jis208": "1-28-23",
+      "stroke_count": 2,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 115,
+      "radical": {
+        "classical": 1,
+        "nelson": 5
+      },
+      "radical_components": [
+        "乙",
+        "匕",
+        "ノ"
+      ],
+      "meanings": {
+        "en": [
+          "seven"
+        ],
+        "fr": [
+          "sept"
+        ],
+        "es": [
+          "siete",
+          "7"
+        ],
+        "pt": [
+          "Sete"
+        ]
+      },
+      "readings": {
+        "on": [
+          "シチ"
+        ],
+        "kun": [
+          "なな",
+          "なな.つ",
+          "なの"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "qi1"
+        ],
+        "korean_romanized": [
+          "chil"
+        ],
+        "korean_hangul": [
+          "칠"
+        ],
+        "vietnamese": [
+          "Thất"
+        ]
+      },
+      "nanori": [
+        "し",
+        "しっ",
+        "な",
+        "ひち"
+      ],
+      "variants": [
+        {
+          "type": "deroo",
+          "value": "1474"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "261",
+        "nelson_n": "3",
+        "halpern_njecd": "3362",
+        "halpern_kkld_2ed": "2854",
+        "heisig": "7",
+        "heisig6": "7",
+        "gakken": "44",
+        "oneill_kk": "9",
+        "moro": "6",
+        "henshall": "30",
+        "kodansha_compact": "2"
+      },
+      "query_codes": {
+        "skip": "4-2-2",
+        "sh_desc": "0a2.13",
+        "four_corner": "4071.0",
+        "deroo": "1456"
+      }
+    },
+    {
+      "character": "車",
+      "unicode": "8eca",
+      "jis208": "1-28-54",
+      "stroke_count": 7,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 333,
+      "radical": {
+        "classical": 159,
+        "nelson": null
+      },
+      "radical_components": [
+        "車"
+      ],
+      "meanings": {
+        "en": [
+          "car"
+        ],
+        "fr": [
+          "véhicule",
+          "voiture"
+        ],
+        "es": [
+          "coche",
+          "vehículo",
+          "rueda"
+        ],
+        "pt": [
+          "carro"
+        ]
+      },
+      "readings": {
+        "on": [
+          "シャ"
+        ],
+        "kun": [
+          "くるま"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "che1",
+          "ju1"
+        ],
+        "korean_romanized": [
+          "cha",
+          "geo"
+        ],
+        "korean_hangul": [
+          "차",
+          "거"
+        ],
+        "vietnamese": [
+          "Xa"
+        ]
+      },
+      "nanori": [
+        "くら",
+        "くろま"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "4608",
+        "nelson_n": "5939",
+        "halpern_njecd": "3552",
+        "halpern_kkld_2ed": "2976",
+        "heisig": "286",
+        "heisig6": "304",
+        "gakken": "162",
+        "oneill_kk": "54",
+        "moro": "38172",
+        "henshall": "31",
+        "kodansha_compact": "1769"
+      },
+      "query_codes": {
+        "skip": "4-7-3",
+        "sh_desc": "7c0.1",
+        "four_corner": "5000.6",
+        "deroo": "1555"
+      }
+    },
+    {
+      "character": "十",
+      "unicode": "5341",
+      "jis208": "1-29-29",
+      "stroke_count": 2,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 8,
+      "radical": {
+        "classical": 24,
+        "nelson": null
+      },
+      "radical_components": [
+        "十"
+      ],
+      "meanings": {
+        "en": [
+          "ten"
+        ],
+        "fr": [
+          "dix"
+        ],
+        "es": [
+          "diez",
+          "10"
+        ],
+        "pt": [
+          "dez"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ジュウ",
+          "ジッ",
+          "ジュッ"
+        ],
+        "kun": [
+          "とお",
+          "と",
+          "そ"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "shi2"
+        ],
+        "korean_romanized": [
+          "sib"
+        ],
+        "korean_hangul": [
+          "십"
+        ],
+        "vietnamese": [
+          "Thập"
+        ]
+      },
+      "nanori": [
+        "い",
+        "か",
+        "ぎ",
+        "さ",
+        "し",
+        "そう",
+        "ち",
+        "とう",
+        "ね",
+        "ま",
+        "る",
+        "わ"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "768",
+        "nelson_n": "598",
+        "halpern_njecd": "3365",
+        "halpern_kkld_2ed": "2855",
+        "heisig": "10",
+        "heisig6": "10",
+        "gakken": "5",
+        "oneill_kk": "12",
+        "moro": "2695",
+        "henshall": "33",
+        "kodansha_compact": "239"
+      },
+      "query_codes": {
+        "skip": "4-2-3",
+        "sh_desc": "2k0.1",
+        "four_corner": "4000.0",
+        "deroo": "1455"
+      }
+    },
+    {
+      "character": "出",
+      "unicode": "51fa",
+      "jis208": "1-29-48",
+      "stroke_count": 5,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 13,
+      "radical": {
+        "classical": 17,
+        "nelson": 2
+      },
+      "radical_components": [
+        "｜",
+        "山",
+        "凵"
+      ],
+      "meanings": {
+        "en": [
+          "exit",
+          "leave",
+          "go out",
+          "come out",
+          "put out",
+          "protrude"
+        ],
+        "fr": [
+          "sortir",
+          "quitter",
+          "présence"
+        ],
+        "es": [
+          "salir",
+          "dejar",
+          "sacar"
+        ],
+        "pt": [
+          "saída",
+          "deixa"
+        ]
+      },
+      "readings": {
+        "on": [
+          "シュツ",
+          "スイ"
+        ],
+        "kun": [
+          "で.る",
+          "-で",
+          "だ.す",
+          "-だ.す",
+          "い.でる",
+          "い.だす"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "chu1"
+        ],
+        "korean_romanized": [
+          "chul",
+          "chu"
+        ],
+        "korean_hangul": [
+          "출",
+          "추"
+        ],
+        "vietnamese": [
+          "Xuất",
+          "Xúy"
+        ]
+      },
+      "nanori": [
+        "いず",
+        "いづ",
+        "いで",
+        "じ",
+        "すっ",
+        "すつ",
+        "てん"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "97",
+        "nelson_n": "445",
+        "halpern_njecd": "3498",
+        "halpern_kkld_2ed": "2934",
+        "heisig": "767",
+        "heisig6": "829",
+        "gakken": "17",
+        "oneill_kk": "40",
+        "moro": "1811",
+        "henshall": "34",
+        "kodansha_compact": "174"
+      },
+      "query_codes": {
+        "skip": "4-5-2",
+        "sh_desc": "0a5.22",
+        "four_corner": "2277.2",
+        "deroo": "1276"
+      }
+    },
+    {
+      "character": "書",
+      "unicode": "66f8",
+      "jis208": "1-29-81",
+      "stroke_count": 10,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 169,
+      "radical": {
+        "classical": 73,
+        "nelson": 129
+      },
+      "radical_components": [
+        "日",
+        "聿"
+      ],
+      "meanings": {
+        "en": [
+          "write"
+        ],
+        "fr": [
+          "écrire"
+        ],
+        "es": [
+          "escritura",
+          "escrito",
+          "escribir"
+        ],
+        "pt": [
+          "escrever"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ショ"
+        ],
+        "kun": [
+          "か.く",
+          "-が.き",
+          "-がき"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "shu1"
+        ],
+        "korean_romanized": [
+          "seo"
+        ],
+        "korean_hangul": [
+          "서"
+        ],
+        "vietnamese": [
+          "Thư"
+        ]
+      },
+      "nanori": [
+        "かき"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "3719",
+        "nelson_n": "2463",
+        "halpern_njecd": "2658",
+        "halpern_kkld_2ed": "2314",
+        "heisig": "327",
+        "heisig6": "349",
+        "gakken": "130",
+        "oneill_kk": "70",
+        "moro": "14294",
+        "henshall": "142",
+        "kodansha_compact": "998"
+      },
+      "query_codes": {
+        "skip": "2-6-4",
+        "sh_desc": "4c6.6",
+        "four_corner": "5060.1",
+        "deroo": "1678"
+      }
+    },
+    {
+      "character": "女",
+      "unicode": "5973",
+      "jis208": "1-29-87",
+      "stroke_count": 3,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 151,
+      "radical": {
+        "classical": 38,
+        "nelson": null
+      },
+      "radical_components": [
+        "女"
+      ],
+      "meanings": {
+        "en": [
+          "woman",
+          "female"
+        ],
+        "fr": [
+          "femme",
+          "féminin"
+        ],
+        "es": [
+          "femenino",
+          "mujer"
+        ],
+        "pt": [
+          "mulher",
+          "fêmea"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ジョ",
+          "ニョ",
+          "ニョウ"
+        ],
+        "kun": [
+          "おんな",
+          "め"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "nu:3",
+          "ru3"
+        ],
+        "korean_romanized": [
+          "nyeo",
+          "yeo"
+        ],
+        "korean_hangul": [
+          "녀",
+          "여"
+        ],
+        "vietnamese": [
+          "Nữ",
+          "Nứ",
+          "Nhữ"
+        ]
+      },
+      "nanori": [
+        "おな",
+        "た",
+        "つき",
+        "な"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "1185",
+        "nelson_n": "1173",
+        "halpern_njecd": "3418",
+        "halpern_kkld_2ed": "2884",
+        "heisig": "98",
+        "heisig6": "102",
+        "gakken": "178",
+        "oneill_kk": "62",
+        "moro": "6036",
+        "henshall": "35",
+        "kodansha_compact": "423"
+      },
+      "query_codes": {
+        "skip": "4-3-4",
+        "sh_desc": "3e0.1",
+        "four_corner": "4040.0",
+        "deroo": "1769"
+      }
+    },
+    {
+      "character": "小",
+      "unicode": "5c0f",
+      "jis208": "1-30-14",
+      "stroke_count": 3,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 114,
+      "radical": {
+        "classical": 42,
+        "nelson": null
+      },
+      "radical_components": [
+        "小"
+      ],
+      "meanings": {
+        "en": [
+          "little",
+          "small"
+        ],
+        "fr": [
+          "petit"
+        ],
+        "es": [
+          "poco",
+          "pequeño"
+        ],
+        "pt": [
+          "Pequeno",
+          "pouco"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ショウ"
+        ],
+        "kun": [
+          "ちい.さい",
+          "こ-",
+          "お-",
+          "さ-"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "xiao3"
+        ],
+        "korean_romanized": [
+          "so"
+        ],
+        "korean_hangul": [
+          "소"
+        ],
+        "vietnamese": [
+          "Tiểu"
+        ]
+      },
+      "nanori": [
+        "いさら",
+        "こう",
+        "さざ",
+        "しゃお",
+        "ちいさ"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "1355",
+        "nelson_n": "1389",
+        "halpern_njecd": "7",
+        "halpern_kkld_2ed": "2",
+        "heisig": "105",
+        "heisig6": "110",
+        "gakken": "63",
+        "oneill_kk": "33",
+        "moro": "7473",
+        "henshall": "36",
+        "kodansha_compact": "511"
+      },
+      "query_codes": {
+        "skip": "1-1-2",
+        "sh_desc": "3n0.1",
+        "four_corner": "9000.0",
+        "deroo": "1141"
+      }
+    },
+    {
+      "character": "上",
+      "unicode": "4e0a",
+      "jis208": "1-30-69",
+      "stroke_count": 3,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 35,
+      "radical": {
+        "classical": 1,
+        "nelson": 25
+      },
+      "radical_components": [
+        "一",
+        "卜"
+      ],
+      "meanings": {
+        "en": [
+          "above",
+          "up"
+        ],
+        "fr": [
+          "au-dessus",
+          "haut",
+          "monter",
+          "donner (je te donne)"
+        ],
+        "es": [
+          "arriba",
+          "encima",
+          "parte superior",
+          "cima",
+          "superficie"
+        ],
+        "pt": [
+          "acima",
+          "para cima",
+          "sobre",
+          "subir",
+          "galgar",
+          "em cima",
+          "escalar"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ジョウ",
+          "ショウ",
+          "シャン"
+        ],
+        "kun": [
+          "うえ",
+          "-うえ",
+          "うわ-",
+          "かみ",
+          "あ.げる",
+          "-あ.げる",
+          "あ.がる",
+          "-あ.がる",
+          "あ.がり",
+          "-あ.がり",
+          "のぼ.る",
+          "のぼ.り",
+          "のぼ.せる",
+          "のぼ.す",
+          "たてまつ.る"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "shang4",
+          "shang3"
+        ],
+        "korean_romanized": [
+          "sang"
+        ],
+        "korean_hangul": [
+          "상"
+        ],
+        "vietnamese": [
+          "Thượng",
+          "Thướng"
+        ]
+      },
+      "nanori": [
+        "あおい",
+        "あげ",
+        "い",
+        "か",
+        "かき",
+        "かず",
+        "かん",
+        "こう",
+        "のぼり",
+        "ほつ"
+      ],
+      "variants": [
+        {
+          "type": "jis212",
+          "value": "1-16-02"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "798",
+        "nelson_n": "10",
+        "halpern_njecd": "3404",
+        "halpern_kkld_2ed": "2876",
+        "heisig": "49",
+        "heisig6": "50",
+        "gakken": "21",
+        "oneill_kk": "29",
+        "moro": "13",
+        "henshall": "37",
+        "kodansha_compact": "6"
+      },
+      "query_codes": {
+        "skip": "4-3-2",
+        "sh_desc": "2m1.1",
+        "four_corner": "2110.0",
+        "deroo": "1272"
+      }
+    },
+    {
+      "character": "食",
+      "unicode": "98df",
+      "jis208": "1-31-09",
+      "stroke_count": 9,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 328,
+      "radical": {
+        "classical": 184,
+        "nelson": null
+      },
+      "radical_components": [
+        "食"
+      ],
+      "meanings": {
+        "en": [
+          "eat",
+          "food"
+        ],
+        "fr": [
+          "manger",
+          "nourriture"
+        ],
+        "es": [
+          "alimento",
+          "comida",
+          "eclipse",
+          "comer"
+        ],
+        "pt": [
+          "comer",
+          "comida",
+          "alimento"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ショク",
+          "ジキ"
+        ],
+        "kun": [
+          "く.う",
+          "く.らう",
+          "た.べる",
+          "は.む"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "shi2",
+          "si4"
+        ],
+        "korean_romanized": [
+          "sig",
+          "sa"
+        ],
+        "korean_hangul": [
+          "식",
+          "사"
+        ],
+        "vietnamese": [
+          "Thực",
+          "Tự"
+        ]
+      },
+      "nanori": [
+        "ぐい"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "5154",
+        "nelson_n": "6674",
+        "halpern_njecd": "2075",
+        "halpern_kkld_2ed": "1787",
+        "heisig": "1472",
+        "heisig6": "1582",
+        "gakken": "269",
+        "oneill_kk": "283",
+        "moro": "44014",
+        "henshall": "146",
+        "kodansha_compact": "1900"
+      },
+      "query_codes": {
+        "skip": "2-2-7",
+        "sh_desc": "8b0.1",
+        "four_corner": "8073.2",
+        "deroo": "2865"
+      }
+    },
+    {
+      "character": "人",
+      "unicode": "4eba",
+      "jis208": "1-31-45",
+      "stroke_count": 2,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 5,
+      "radical": {
+        "classical": 9,
+        "nelson": null
+      },
+      "radical_components": [
+        "人"
+      ],
+      "meanings": {
+        "en": [
+          "person"
+        ],
+        "fr": [
+          "être humain",
+          "personne"
+        ],
+        "es": [
+          "persona"
+        ],
+        "pt": [
+          "pessoa"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ジン",
+          "ニン"
+        ],
+        "kun": [
+          "ひと",
+          "-り",
+          "-と"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "ren2"
+        ],
+        "korean_romanized": [
+          "in"
+        ],
+        "korean_hangul": [
+          "인"
+        ],
+        "vietnamese": [
+          "Nhân"
+        ]
+      },
+      "nanori": [
+        "じ",
+        "と",
+        "ね",
+        "ひこ",
+        "ふみ"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "339",
+        "nelson_n": "99",
+        "halpern_njecd": "3368",
+        "halpern_kkld_2ed": "2857",
+        "heisig": "951",
+        "heisig6": "1023",
+        "gakken": "9",
+        "oneill_kk": "4",
+        "moro": "344",
+        "henshall": "39",
+        "kodansha_compact": "42"
+      },
+      "query_codes": {
+        "skip": "4-2-4",
+        "sh_desc": "2a0.1",
+        "four_corner": "8000.0",
+        "deroo": "1262"
+      }
+    },
+    {
+      "character": "水",
+      "unicode": "6c34",
+      "jis208": "1-31-69",
+      "stroke_count": 4,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 223,
+      "radical": {
+        "classical": 85,
+        "nelson": null
+      },
+      "radical_components": [
+        "水"
+      ],
+      "meanings": {
+        "en": [
+          "water"
+        ],
+        "fr": [
+          "eau"
+        ],
+        "es": [
+          "agua"
+        ],
+        "pt": [
+          "água"
+        ]
+      },
+      "readings": {
+        "on": [
+          "スイ"
+        ],
+        "kun": [
+          "みず",
+          "みず-"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "shui3"
+        ],
+        "korean_romanized": [
+          "su"
+        ],
+        "korean_hangul": [
+          "수"
+        ],
+        "vietnamese": [
+          "Thủy"
+        ]
+      },
+      "nanori": [
+        "うず",
+        "ずみ",
+        "つ",
+        "ど",
+        "み",
+        "みさ",
+        "みつ",
+        "みな",
+        "みん"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "2482",
+        "nelson_n": "3030",
+        "halpern_njecd": "10",
+        "halpern_kkld_2ed": "3",
+        "heisig": "130",
+        "heisig6": "137",
+        "gakken": "144",
+        "oneill_kk": "16",
+        "moro": "17083",
+        "henshall": "40",
+        "kodansha_compact": "1151"
+      },
+      "query_codes": {
+        "skip": "1-1-3",
+        "sh_desc": "3a0.1",
+        "four_corner": "1223.0",
+        "deroo": "1142"
+      }
+    },
+    {
+      "character": "生",
+      "unicode": "751f",
+      "jis208": "1-32-24",
+      "stroke_count": 5,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 29,
+      "radical": {
+        "classical": 100,
+        "nelson": null
+      },
+      "radical_components": [
+        "生"
+      ],
+      "meanings": {
+        "en": [
+          "life",
+          "genuine",
+          "birth"
+        ],
+        "fr": [
+          "vie",
+          "naissance",
+          "authentique",
+          "cru"
+        ],
+        "es": [
+          "vida",
+          "nacimiento",
+          "vivir",
+          "existir",
+          "nacer",
+          "dar a luz",
+          "puro",
+          "crudo"
+        ],
+        "pt": [
+          "vida",
+          "genuína",
+          "nascimento"
+        ]
+      },
+      "readings": {
+        "on": [
+          "セイ",
+          "ショウ"
+        ],
+        "kun": [
+          "い.きる",
+          "い.かす",
+          "い.ける",
+          "う.まれる",
+          "うま.れる",
+          "う.まれ",
+          "うまれ",
+          "う.む",
+          "お.う",
+          "は.える",
+          "は.やす",
+          "き",
+          "なま",
+          "なま-",
+          "な.る",
+          "な.す",
+          "む.す",
+          "-う"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "sheng1"
+        ],
+        "korean_romanized": [
+          "saeng"
+        ],
+        "korean_hangul": [
+          "생"
+        ],
+        "vietnamese": [
+          "Sanh",
+          "Sinh"
+        ]
+      },
+      "nanori": [
+        "あさ",
+        "いき",
+        "いく",
+        "いけ",
+        "うぶ",
+        "うまい",
+        "え",
+        "おい",
+        "ぎゅう",
+        "くるみ",
+        "ごせ",
+        "さ",
+        "じょう",
+        "すぎ",
+        "そ",
+        "そう",
+        "ちる",
+        "なば",
+        "にう",
+        "にゅう",
+        "ふ",
+        "み",
+        "もう",
+        "よい",
+        "りゅう"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "2991",
+        "nelson_n": "3715",
+        "halpern_njecd": "3497",
+        "halpern_kkld_2ed": "2933",
+        "heisig": "1555",
+        "heisig6": "1675",
+        "gakken": "29",
+        "oneill_kk": "67",
+        "moro": "21670",
+        "henshall": "42",
+        "kodansha_compact": "1327"
+      },
+      "query_codes": {
+        "skip": "4-5-2",
+        "sh_desc": "0a5.29",
+        "four_corner": "2510.0",
+        "deroo": "2472"
+      }
+    },
+    {
+      "character": "西",
+      "unicode": "897f",
+      "jis208": "1-32-30",
+      "stroke_count": 6,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 259,
+      "radical": {
+        "classical": 146,
+        "nelson": null
+      },
+      "radical_components": [
+        "西"
+      ],
+      "meanings": {
+        "en": [
+          "west",
+          "Spain"
+        ],
+        "fr": [
+          "Ouest",
+          "Espagne"
+        ],
+        "es": [
+          "Oeste",
+          "España"
+        ],
+        "pt": [
+          "oeste",
+          "Espanha"
+        ]
+      },
+      "readings": {
+        "on": [
+          "セイ",
+          "サイ",
+          "ス"
+        ],
+        "kun": [
+          "にし"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "xi1"
+        ],
+        "korean_romanized": [
+          "seo"
+        ],
+        "korean_hangul": [
+          "서"
+        ],
+        "vietnamese": [
+          "Tây",
+          "Tê"
+        ]
+      },
+      "nanori": [
+        "いり",
+        "ひし",
+        "むら"
+      ],
+      "variants": [
+        {
+          "type": "deroo",
+          "value": "3257"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "4273",
+        "nelson_n": "5514",
+        "halpern_njecd": "3520",
+        "halpern_kkld_2ed": "2951",
+        "heisig": "1602",
+        "heisig6": "1728",
+        "gakken": "167",
+        "oneill_kk": "28",
+        "moro": "34763",
+        "henshall": "152",
+        "kodansha_compact": "1638"
+      },
+      "query_codes": {
+        "skip": "4-6-1",
+        "sh_desc": "0a6.20",
+        "four_corner": "1060.0",
+        "deroo": "3275"
+      }
+    },
+    {
+      "character": "先",
+      "unicode": "5148",
+      "jis208": "1-32-72",
+      "stroke_count": 6,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 173,
+      "radical": {
+        "classical": 10,
+        "nelson": null
+      },
+      "radical_components": [
+        "ノ",
+        "土",
+        "儿"
+      ],
+      "meanings": {
+        "en": [
+          "before",
+          "ahead",
+          "previous",
+          "future",
+          "precedence"
+        ],
+        "fr": [
+          "avant",
+          "devant",
+          "précédent",
+          "futur",
+          "antériorité"
+        ],
+        "es": [
+          "antes",
+          "adelante",
+          "previo",
+          "precedencia",
+          "extremo",
+          "punta",
+          "final",
+          "anterior"
+        ],
+        "pt": [
+          "antes",
+          "prévio",
+          "na frente",
+          "futuro",
+          "precedência"
+        ]
+      },
+      "readings": {
+        "on": [
+          "セン"
+        ],
+        "kun": [
+          "さき",
+          "ま.ず"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "xian1"
+        ],
+        "korean_romanized": [
+          "seon"
+        ],
+        "korean_hangul": [
+          "선"
+        ],
+        "vietnamese": [
+          "Tiên",
+          "Tiến"
+        ]
+      },
+      "nanori": [
+        "ぽん"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "571",
+        "nelson_n": "350",
+        "halpern_njecd": "2394",
+        "halpern_kkld_2ed": "2123",
+        "heisig": "248",
+        "heisig6": "263",
+        "gakken": "201",
+        "oneill_kk": "65",
+        "moro": "1349",
+        "henshall": "49",
+        "kodansha_compact": "145"
+      },
+      "query_codes": {
+        "skip": "2-4-2",
+        "sh_desc": "3b3.7",
+        "four_corner": "2421.1",
+        "deroo": "2457"
+      }
+    },
+    {
+      "character": "千",
+      "unicode": "5343",
+      "jis208": "1-32-73",
+      "stroke_count": 3,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 195,
+      "radical": {
+        "classical": 24,
+        "nelson": 4
+      },
+      "radical_components": [
+        "ノ",
+        "十"
+      ],
+      "meanings": {
+        "en": [
+          "thousand"
+        ],
+        "fr": [
+          "mille"
+        ],
+        "es": [
+          "mil",
+          "muchos"
+        ],
+        "pt": [
+          "Mil"
+        ]
+      },
+      "readings": {
+        "on": [
+          "セン"
+        ],
+        "kun": [
+          "ち"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "qian1"
+        ],
+        "korean_romanized": [
+          "cheon"
+        ],
+        "korean_hangul": [
+          "천"
+        ],
+        "vietnamese": [
+          "Thiên"
+        ]
+      },
+      "nanori": [
+        "かず",
+        "ゆき"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "156",
+        "nelson_n": "599",
+        "halpern_njecd": "3411",
+        "halpern_kkld_2ed": "2881",
+        "heisig": "40",
+        "heisig6": "40",
+        "gakken": "79",
+        "oneill_kk": "83",
+        "moro": "2697",
+        "henshall": "47",
+        "kodansha_compact": "240"
+      },
+      "query_codes": {
+        "skip": "4-3-3",
+        "sh_desc": "2k1.2",
+        "four_corner": "2040.0",
+        "deroo": "2255"
+      }
+    },
+    {
+      "character": "川",
+      "unicode": "5ddd",
+      "jis208": "1-32-78",
+      "stroke_count": 3,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 181,
+      "radical": {
+        "classical": 47,
+        "nelson": null
+      },
+      "radical_components": [
+        "川"
+      ],
+      "meanings": {
+        "en": [
+          "stream",
+          "river",
+          "river or three-stroke river radical (no. 47)"
+        ],
+        "fr": [
+          "rivière",
+          "fleuve",
+          "radical rivière (no. 47)"
+        ],
+        "es": [
+          "arroyo",
+          "río"
+        ],
+        "pt": [
+          "corrente",
+          "rio"
+        ]
+      },
+      "readings": {
+        "on": [
+          "セン"
+        ],
+        "kun": [
+          "かわ"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "chuan1"
+        ],
+        "korean_romanized": [
+          "cheon"
+        ],
+        "korean_hangul": [
+          "천"
+        ],
+        "vietnamese": [
+          "Xuyên"
+        ]
+      },
+      "nanori": [
+        "か",
+        "こ",
+        "さわ"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "1447",
+        "nelson_n": "1526",
+        "halpern_njecd": "6",
+        "halpern_kkld_2ed": "1",
+        "heisig": "127",
+        "heisig6": "134",
+        "gakken": "111",
+        "oneill_kk": "41",
+        "moro": "8673",
+        "henshall": "48",
+        "kodansha_compact": "548"
+      },
+      "query_codes": {
+        "skip": "1-1-2",
+        "sh_desc": "0a3.2",
+        "four_corner": "2200.0",
+        "deroo": "1254"
+      }
+    },
+    {
+      "character": "前",
+      "unicode": "524d",
+      "jis208": "1-33-16",
+      "stroke_count": 9,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 27,
+      "radical": {
+        "classical": 18,
+        "nelson": 12
+      },
+      "radical_components": [
+        "一",
+        "刈",
+        "月",
+        "并"
+      ],
+      "meanings": {
+        "en": [
+          "in front",
+          "before"
+        ],
+        "fr": [
+          "devant",
+          "avant"
+        ],
+        "es": [
+          "antes",
+          "delante de"
+        ],
+        "pt": [
+          "em frente",
+          "antes"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ゼン"
+        ],
+        "kun": [
+          "まえ",
+          "-まえ"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "qian2"
+        ],
+        "korean_romanized": [
+          "jeon"
+        ],
+        "korean_hangul": [
+          "전"
+        ],
+        "vietnamese": [
+          "Tiền"
+        ]
+      },
+      "nanori": [
+        "さき",
+        "さと",
+        "まい"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "595",
+        "nelson_n": "490",
+        "halpern_njecd": "2266",
+        "halpern_kkld_2ed": "1957",
+        "heisig": "290",
+        "heisig6": "309",
+        "gakken": "38",
+        "oneill_kk": "139",
+        "moro": "2011X",
+        "henshall": "159",
+        "kodansha_compact": "196"
+      },
+      "query_codes": {
+        "skip": "2-3-6",
+        "sh_desc": "2o7.3",
+        "four_corner": "8022.1",
+        "deroo": "943"
+      }
+    },
+    {
+      "character": "大",
+      "unicode": "5927",
+      "jis208": "1-34-71",
+      "stroke_count": 3,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 7,
+      "radical": {
+        "classical": 37,
+        "nelson": null
+      },
+      "radical_components": [
+        "大"
+      ],
+      "meanings": {
+        "en": [
+          "large",
+          "big"
+        ],
+        "fr": [
+          "grand"
+        ],
+        "es": [
+          "grande",
+          "muy",
+          "mucho"
+        ],
+        "pt": [
+          "grande",
+          "enorme"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ダイ",
+          "タイ"
+        ],
+        "kun": [
+          "おお-",
+          "おお.きい",
+          "-おお.いに"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "da4",
+          "dai4"
+        ],
+        "korean_romanized": [
+          "dae",
+          "da",
+          "tae"
+        ],
+        "korean_hangul": [
+          "대",
+          "다",
+          "태"
+        ],
+        "vietnamese": [
+          "Đại",
+          "Thái"
+        ]
+      },
+      "nanori": [
+        "うふ",
+        "お",
+        "おう",
+        "た",
+        "たかし",
+        "とも",
+        "はじめ",
+        "ひろ",
+        "ひろし",
+        "まさ",
+        "まさる",
+        "もと",
+        "わ"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "1171",
+        "nelson_n": "1133",
+        "halpern_njecd": "3416",
+        "halpern_kkld_2ed": "2882",
+        "heisig": "107",
+        "heisig6": "112",
+        "gakken": "7",
+        "oneill_kk": "32",
+        "moro": "5831",
+        "henshall": "53",
+        "kodansha_compact": "408"
+      },
+      "query_codes": {
+        "skip": "4-3-4",
+        "sh_desc": "0a3.18",
+        "four_corner": "4003.0",
+        "deroo": "1463"
+      }
+    },
+    {
+      "character": "男",
+      "unicode": "7537",
+      "jis208": "1-35-43",
+      "stroke_count": 7,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 240,
+      "radical": {
+        "classical": 102,
+        "nelson": null
+      },
+      "radical_components": [
+        "田",
+        "力"
+      ],
+      "meanings": {
+        "en": [
+          "male"
+        ],
+        "fr": [
+          "homme",
+          "mâle"
+        ],
+        "es": [
+          "masculino",
+          "hombre"
+        ],
+        "pt": [
+          "masculino"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ダン",
+          "ナン"
+        ],
+        "kun": [
+          "おとこ",
+          "お"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "nan2"
+        ],
+        "korean_romanized": [
+          "nam"
+        ],
+        "korean_hangul": [
+          "남"
+        ],
+        "vietnamese": [
+          "Nam"
+        ]
+      },
+      "nanori": [
+        "み"
+      ],
+      "variants": [
+        {
+          "type": "jis212",
+          "value": "1-17-20"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "2996",
+        "nelson_n": "3731",
+        "halpern_njecd": "2542",
+        "halpern_kkld_2ed": "2199",
+        "heisig": "859",
+        "heisig6": "923",
+        "gakken": "228",
+        "oneill_kk": "63",
+        "moro": "21730",
+        "henshall": "54",
+        "kodansha_compact": "1334"
+      },
+      "query_codes": {
+        "skip": "2-5-2",
+        "sh_desc": "5f2.2",
+        "four_corner": "6042.7",
+        "deroo": "3645"
+      }
+    },
+    {
+      "character": "中",
+      "unicode": "4e2d",
+      "jis208": "1-35-70",
+      "stroke_count": 4,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 11,
+      "radical": {
+        "classical": 2,
+        "nelson": null
+      },
+      "radical_components": [
+        "｜",
+        "口"
+      ],
+      "meanings": {
+        "en": [
+          "in",
+          "inside",
+          "middle",
+          "mean",
+          "center"
+        ],
+        "fr": [
+          "dans",
+          "dedans",
+          "à l'intérieur",
+          "milieu",
+          "centre",
+          "moyenne"
+        ],
+        "es": [
+          "centro",
+          "dentro",
+          "interior",
+          "medio"
+        ],
+        "pt": [
+          "em",
+          "interior",
+          "médio",
+          "meio",
+          "centro"
+        ]
+      },
+      "readings": {
+        "on": [
+          "チュウ"
+        ],
+        "kun": [
+          "なか",
+          "うち",
+          "あた.る"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "zhong1",
+          "zhong4"
+        ],
+        "korean_romanized": [
+          "jung"
+        ],
+        "korean_hangul": [
+          "중"
+        ],
+        "vietnamese": [
+          "Trung",
+          "Trúng"
+        ]
+      },
+      "nanori": [
+        "あたる",
+        "かなえ"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "81",
+        "nelson_n": "28",
+        "halpern_njecd": "3451",
+        "halpern_kkld_2ed": "2902",
+        "heisig": "39",
+        "heisig6": "39",
+        "gakken": "13",
+        "oneill_kk": "31",
+        "moro": "73",
+        "henshall": "55",
+        "kodansha_compact": "16"
+      },
+      "query_codes": {
+        "skip": "4-4-3",
+        "sh_desc": "0a4.40",
+        "four_corner": "5000.6",
+        "deroo": "1655"
+      }
+    },
+    {
+      "character": "長",
+      "unicode": "9577",
+      "jis208": "1-36-25",
+      "stroke_count": 8,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 12,
+      "radical": {
+        "classical": 168,
+        "nelson": null
+      },
+      "radical_components": [
+        "長"
+      ],
+      "meanings": {
+        "en": [
+          "long",
+          "leader",
+          "superior",
+          "senior"
+        ],
+        "fr": [
+          "long",
+          "chef"
+        ],
+        "es": [
+          "largo",
+          "jefe",
+          "sobresaliente"
+        ],
+        "pt": [
+          "Longo",
+          "ambicionar",
+          "líder",
+          "chefe"
+        ]
+      },
+      "readings": {
+        "on": [
+          "チョウ"
+        ],
+        "kun": [
+          "なが.い",
+          "おさ"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "chang2",
+          "zhang3"
+        ],
+        "korean_romanized": [
+          "jang"
+        ],
+        "korean_hangul": [
+          "장"
+        ],
+        "vietnamese": [
+          "Trường",
+          "Trưởng",
+          "Trướng"
+        ]
+      },
+      "nanori": [
+        "お",
+        "おしゃ",
+        "たかし",
+        "たけ",
+        "な",
+        "は",
+        "ひさ"
+      ],
+      "variants": [
+        {
+          "type": "jis212",
+          "value": "1-18-71"
+        },
+        {
+          "type": "jis212",
+          "value": "1-69-93"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "4938",
+        "nelson_n": "6379",
+        "halpern_njecd": "2556",
+        "halpern_kkld_2ed": "2212",
+        "heisig": "1920",
+        "heisig6": "2070",
+        "gakken": "25",
+        "oneill_kk": "155",
+        "moro": "41100",
+        "henshall": "173",
+        "kodansha_compact": "1837"
+      },
+      "query_codes": {
+        "skip": "2-5-3",
+        "sh_desc": "0a8.2",
+        "four_corner": "7173.2",
+        "deroo": "3465"
+      }
+    },
+    {
+      "character": "天",
+      "unicode": "5929",
+      "jis208": "1-37-23",
+      "stroke_count": 4,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 512,
+      "radical": {
+        "classical": 37,
+        "nelson": 1
+      },
+      "radical_components": [
+        "一",
+        "大",
+        "二"
+      ],
+      "meanings": {
+        "en": [
+          "heavens",
+          "sky",
+          "imperial"
+        ],
+        "fr": [
+          "cieux",
+          "ciel",
+          "impérial"
+        ],
+        "es": [
+          "paraíso",
+          "cielo",
+          "imperial"
+        ],
+        "pt": [
+          "paraíso",
+          "ceú",
+          "imperiais"
+        ]
+      },
+      "readings": {
+        "on": [
+          "テン"
+        ],
+        "kun": [
+          "あまつ",
+          "あめ",
+          "あま-"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "tian1"
+        ],
+        "korean_romanized": [
+          "cheon"
+        ],
+        "korean_hangul": [
+          "천"
+        ],
+        "vietnamese": [
+          "Thiên"
+        ]
+      },
+      "nanori": [
+        "あき",
+        "あも",
+        "た",
+        "たかし",
+        "て",
+        "なま"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "16",
+        "nelson_n": "1138",
+        "halpern_njecd": "3442",
+        "halpern_kkld_2ed": "2898",
+        "heisig": "428",
+        "heisig6": "457",
+        "gakken": "364",
+        "oneill_kk": "78",
+        "moro": "5833",
+        "henshall": "58",
+        "kodansha_compact": "410"
+      },
+      "query_codes": {
+        "skip": "4-4-1",
+        "sh_desc": "0a4.21",
+        "four_corner": "1043.0",
+        "deroo": "3163"
+      }
+    },
+    {
+      "character": "電",
+      "unicode": "96fb",
+      "jis208": "1-37-37",
+      "stroke_count": 13,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 268,
+      "radical": {
+        "classical": 173,
+        "nelson": null
+      },
+      "radical_components": [
+        "雨",
+        "田",
+        "乙"
+      ],
+      "meanings": {
+        "en": [
+          "electricity"
+        ],
+        "fr": [
+          "électricité"
+        ],
+        "es": [
+          "electricidad",
+          "eléctrico"
+        ],
+        "pt": [
+          "eletricidade"
+        ]
+      },
+      "readings": {
+        "on": [
+          "デン"
+        ],
+        "kun": []
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "dian4"
+        ],
+        "korean_romanized": [
+          "jeon"
+        ],
+        "korean_hangul": [
+          "전"
+        ],
+        "vietnamese": [
+          "Điện"
+        ]
+      },
+      "nanori": [],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "5050",
+        "nelson_n": "6526",
+        "halpern_njecd": "2790",
+        "halpern_kkld_2ed": "2431",
+        "heisig": "535",
+        "heisig6": "574",
+        "gakken": "125",
+        "oneill_kk": "222",
+        "moro": "42253",
+        "henshall": "180",
+        "kodansha_compact": "1862"
+      },
+      "query_codes": {
+        "skip": "2-8-5",
+        "sh_desc": "8d5.2",
+        "four_corner": "1071.6",
+        "deroo": "3156"
+      }
+    },
+    {
+      "character": "土",
+      "unicode": "571f",
+      "jis208": "1-37-58",
+      "stroke_count": 3,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 307,
+      "radical": {
+        "classical": 32,
+        "nelson": null
+      },
+      "radical_components": [
+        "土"
+      ],
+      "meanings": {
+        "en": [
+          "soil",
+          "earth",
+          "ground",
+          "Turkey"
+        ],
+        "fr": [
+          "sol",
+          "terre",
+          "terrain",
+          "Turquie"
+        ],
+        "es": [
+          "suelo",
+          "tierra",
+          "Turquía"
+        ],
+        "pt": [
+          "solo",
+          "terra",
+          "chão",
+          "Turquia"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ド",
+          "ト"
+        ],
+        "kun": [
+          "つち"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "tu3"
+        ],
+        "korean_romanized": [
+          "to",
+          "du"
+        ],
+        "korean_hangul": [
+          "토",
+          "두"
+        ],
+        "vietnamese": [
+          "Thổ",
+          "Độ",
+          "Đỗ"
+        ]
+      },
+      "nanori": [
+        "つく",
+        "は",
+        "ひじ"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "1050",
+        "nelson_n": "966",
+        "halpern_njecd": "3403",
+        "halpern_kkld_2ed": "2875",
+        "heisig": "150",
+        "heisig6": "161",
+        "gakken": "316",
+        "oneill_kk": "19",
+        "moro": "4867",
+        "henshall": "60",
+        "kodansha_compact": "347"
+      },
+      "query_codes": {
+        "skip": "4-3-2",
+        "sh_desc": "3b0.1",
+        "four_corner": "4010.0",
+        "deroo": "1472"
+      }
+    },
+    {
+      "character": "東",
+      "unicode": "6771",
+      "jis208": "1-37-76",
+      "stroke_count": 8,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 37,
+      "radical": {
+        "classical": 75,
+        "nelson": 4
+      },
+      "radical_components": [
+        "｜",
+        "一",
+        "日",
+        "木",
+        "田"
+      ],
+      "meanings": {
+        "en": [
+          "east"
+        ],
+        "fr": [
+          "Est"
+        ],
+        "es": [
+          "Este"
+        ],
+        "pt": [
+          "Oriente"
+        ]
+      },
+      "readings": {
+        "on": [
+          "トウ"
+        ],
+        "kun": [
+          "ひがし"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "dong1"
+        ],
+        "korean_romanized": [
+          "dong"
+        ],
+        "korean_hangul": [
+          "동"
+        ],
+        "vietnamese": [
+          "Đông"
+        ]
+      },
+      "nanori": [
+        "あい",
+        "あがり",
+        "あずま",
+        "あづま",
+        "こち",
+        "さき",
+        "しの",
+        "とお",
+        "はる",
+        "ひが",
+        "もと"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "213",
+        "nelson_n": "2596",
+        "halpern_njecd": "3568",
+        "halpern_kkld_2ed": "2987",
+        "heisig": "504",
+        "heisig6": "543",
+        "gakken": "11",
+        "oneill_kk": "27",
+        "moro": "14499",
+        "henshall": "184",
+        "kodansha_compact": "1053"
+      },
+      "query_codes": {
+        "skip": "4-8-3",
+        "sh_desc": "0a8.9",
+        "four_corner": "5090.6",
+        "deroo": "1564"
+      }
+    },
+    {
+      "character": "読",
+      "unicode": "8aad",
+      "jis208": "1-38-41",
+      "stroke_count": 14,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 618,
+      "radical": {
+        "classical": 149,
+        "nelson": null
+      },
+      "radical_components": [
+        "言",
+        "士",
+        "儿",
+        "冖"
+      ],
+      "meanings": {
+        "en": [
+          "read"
+        ],
+        "fr": [
+          "lire"
+        ],
+        "es": [
+          "leer"
+        ],
+        "pt": [
+          "leia"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ドク",
+          "トク",
+          "トウ"
+        ],
+        "kun": [
+          "よ.む",
+          "-よ.み"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "du2",
+          "dou4"
+        ],
+        "korean_romanized": [
+          "dog",
+          "du"
+        ],
+        "korean_hangul": [
+          "독",
+          "두"
+        ],
+        "vietnamese": [
+          "Đậu",
+          "Độc"
+        ]
+      },
+      "nanori": [
+        "よみ"
+      ],
+      "variants": [
+        {
+          "type": "jis208",
+          "value": "1-76-06"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "4375",
+        "nelson_n": "5629",
+        "halpern_njecd": "1541",
+        "halpern_kkld_2ed": "1401",
+        "heisig": "348",
+        "heisig6": "372",
+        "gakken": "484",
+        "oneill_kk": "55",
+        "moro": "35580P",
+        "henshall": "189",
+        "kodansha_compact": "1689"
+      },
+      "query_codes": {
+        "skip": "1-7-7",
+        "sh_desc": "7a7.9",
+        "four_corner": "0461.2",
+        "deroo": "3057"
+      }
+    },
+    {
+      "character": "南",
+      "unicode": "5357",
+      "jis208": "1-38-78",
+      "stroke_count": 9,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 341,
+      "radical": {
+        "classical": 24,
+        "nelson": null
+      },
+      "radical_components": [
+        "干",
+        "十",
+        "并",
+        "冂"
+      ],
+      "meanings": {
+        "en": [
+          "south"
+        ],
+        "fr": [
+          "sud"
+        ],
+        "es": [
+          "Sur"
+        ],
+        "pt": [
+          "sul"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ナン",
+          "ナ"
+        ],
+        "kun": [
+          "みなみ"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "nan2",
+          "na1"
+        ],
+        "korean_romanized": [
+          "nam"
+        ],
+        "korean_hangul": [
+          "남"
+        ],
+        "vietnamese": [
+          "Nam"
+        ]
+      },
+      "nanori": [
+        "なみ",
+        "は",
+        "みな",
+        "みまみ"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "778",
+        "nelson_n": "619",
+        "halpern_njecd": "2082",
+        "halpern_kkld_2ed": "1791",
+        "heisig": "1613",
+        "heisig6": "1740",
+        "gakken": "205",
+        "oneill_kk": "157",
+        "moro": "2750",
+        "henshall": "190",
+        "kodansha_compact": "247"
+      },
+      "query_codes": {
+        "skip": "2-2-7",
+        "sh_desc": "2k7.1",
+        "four_corner": "4022.7",
+        "deroo": "1553"
+      }
+    },
+    {
+      "character": "二",
+      "unicode": "4e8c",
+      "jis208": "1-38-83",
+      "stroke_count": 2,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 9,
+      "radical": {
+        "classical": 7,
+        "nelson": null
+      },
+      "radical_components": [
+        "二"
+      ],
+      "meanings": {
+        "en": [
+          "two",
+          "two radical (no. 7)"
+        ],
+        "fr": [
+          "deux",
+          "radical deux (no. 2)"
+        ],
+        "es": [
+          "dos",
+          "2"
+        ],
+        "pt": [
+          "dois"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ニ",
+          "ジ"
+        ],
+        "kun": [
+          "ふた",
+          "ふた.つ",
+          "ふたたび"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "er4"
+        ],
+        "korean_romanized": [
+          "i"
+        ],
+        "korean_hangul": [
+          "이"
+        ],
+        "vietnamese": [
+          "Nhị"
+        ]
+      },
+      "nanori": [
+        "おと",
+        "つぐ",
+        "つぎ",
+        "にい",
+        "は",
+        "ふ",
+        "ふたつ",
+        "ふだ",
+        "わ"
+      ],
+      "variants": [
+        {
+          "type": "jis208",
+          "value": "1-48-17"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "273",
+        "nelson_n": "72",
+        "halpern_njecd": "1922",
+        "halpern_kkld_2ed": "1688",
+        "heisig": "2",
+        "heisig6": "2",
+        "gakken": "6",
+        "oneill_kk": "2",
+        "moro": "247",
+        "henshall": "61",
+        "kodansha_compact": "31"
+      },
+      "query_codes": {
+        "skip": "2-1-1",
+        "sh_desc": "0a2.1",
+        "four_corner": "1010.0",
+        "deroo": "3072"
+      }
+    },
+    {
+      "character": "日",
+      "unicode": "65e5",
+      "jis208": "1-38-92",
+      "stroke_count": 4,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 1,
+      "radical": {
+        "classical": 72,
+        "nelson": null
+      },
+      "radical_components": [
+        "日"
+      ],
+      "meanings": {
+        "en": [
+          "day",
+          "sun",
+          "Japan",
+          "counter for days"
+        ],
+        "fr": [
+          "jour",
+          "soleil",
+          "Japon",
+          "compteur de jours"
+        ],
+        "es": [
+          "día",
+          "solar",
+          "Japón",
+          "sol",
+          "rayo de sol"
+        ],
+        "pt": [
+          "dia",
+          "sol",
+          "Japão"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ニチ",
+          "ジツ"
+        ],
+        "kun": [
+          "ひ",
+          "-び",
+          "-か"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "ri4"
+        ],
+        "korean_romanized": [
+          "il"
+        ],
+        "korean_hangul": [
+          "일"
+        ],
+        "vietnamese": [
+          "Nhật"
+        ]
+      },
+      "nanori": [
+        "あ",
+        "あき",
+        "いる",
+        "く",
+        "くさ",
+        "こう",
+        "す",
+        "たち",
+        "に",
+        "にっ",
+        "につ",
+        "へ"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "2097",
+        "nelson_n": "2410",
+        "halpern_njecd": "3027",
+        "halpern_kkld_2ed": "2606",
+        "heisig": "12",
+        "heisig6": "12",
+        "gakken": "1",
+        "oneill_kk": "5",
+        "moro": "13733",
+        "henshall": "62",
+        "kodansha_compact": "963"
+      },
+      "query_codes": {
+        "skip": "3-3-1",
+        "sh_desc": "4c0.1",
+        "four_corner": "6010.0",
+        "deroo": "3878"
+      }
+    },
+    {
+      "character": "入",
+      "unicode": "5165",
+      "jis208": "1-38-94",
+      "stroke_count": 2,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 56,
+      "radical": {
+        "classical": 11,
+        "nelson": null
+      },
+      "radical_components": [
+        "入"
+      ],
+      "meanings": {
+        "en": [
+          "enter",
+          "insert"
+        ],
+        "fr": [
+          "entrer",
+          "insérer"
+        ],
+        "es": [
+          "entrar",
+          "insertar",
+          "admitir",
+          "introducir",
+          "meter"
+        ],
+        "pt": [
+          "entrar",
+          "inserir"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ニュウ",
+          "ジュ"
+        ],
+        "kun": [
+          "い.る",
+          "-い.る",
+          "-い.り",
+          "い.れる",
+          "-い.れ",
+          "はい.る"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "ru4"
+        ],
+        "korean_romanized": [
+          "ib"
+        ],
+        "korean_hangul": [
+          "입"
+        ],
+        "vietnamese": [
+          "Nhập"
+        ]
+      },
+      "nanori": [
+        "いり",
+        "いる",
+        "に",
+        "の",
+        "りり"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "574",
+        "nelson_n": "366",
+        "halpern_njecd": "3370",
+        "halpern_kkld_2ed": "2859",
+        "heisig": "779",
+        "heisig6": "842",
+        "gakken": "74",
+        "oneill_kk": "39",
+        "moro": "1415",
+        "henshall": "63",
+        "kodansha_compact": "150"
+      },
+      "query_codes": {
+        "skip": "4-2-4",
+        "sh_desc": "0a2.3",
+        "four_corner": "8000.0",
+        "deroo": "3562"
+      }
+    },
+    {
+      "character": "年",
+      "unicode": "5e74",
+      "jis208": "1-39-15",
+      "stroke_count": 6,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 6,
+      "radical": {
+        "classical": 51,
+        "nelson": 4
+      },
+      "radical_components": [
+        "ノ",
+        "一",
+        "干",
+        "乞"
+      ],
+      "meanings": {
+        "en": [
+          "year",
+          "counter for years"
+        ],
+        "fr": [
+          "année",
+          "compteur d'années"
+        ],
+        "es": [
+          "año",
+          "edad"
+        ],
+        "pt": [
+          "Ano"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ネン"
+        ],
+        "kun": [
+          "とし"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "nian2"
+        ],
+        "korean_romanized": [
+          "nyeon"
+        ],
+        "korean_hangul": [
+          "년"
+        ],
+        "vietnamese": [
+          "Niên"
+        ]
+      },
+      "nanori": [
+        "ね"
+      ],
+      "variants": [
+        {
+          "type": "jis212",
+          "value": "1-48-88"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "188",
+        "nelson_n": "1593",
+        "halpern_njecd": "2035",
+        "halpern_kkld_2ed": "1752",
+        "heisig": "1036",
+        "heisig6": "1114",
+        "gakken": "3",
+        "oneill_kk": "64",
+        "moro": "9168",
+        "henshall": "64",
+        "kodansha_compact": "574"
+      },
+      "query_codes": {
+        "skip": "2-2-4",
+        "sh_desc": "0a6.16",
+        "four_corner": "8050.0",
+        "deroo": "2355"
+      }
+    },
+    {
+      "character": "白",
+      "unicode": "767d",
+      "jis208": "1-39-82",
+      "stroke_count": 5,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 483,
+      "radical": {
+        "classical": 106,
+        "nelson": null
+      },
+      "radical_components": [
+        "白"
+      ],
+      "meanings": {
+        "en": [
+          "white"
+        ],
+        "fr": [
+          "blanc"
+        ],
+        "es": [
+          "blanco"
+        ],
+        "pt": [
+          "branco"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ハク",
+          "ビャク"
+        ],
+        "kun": [
+          "しろ",
+          "しら-",
+          "しろ.い"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "bai2"
+        ],
+        "korean_romanized": [
+          "baeg",
+          "bae"
+        ],
+        "korean_hangul": [
+          "백",
+          "배"
+        ],
+        "vietnamese": [
+          "Bạch"
+        ]
+      },
+      "nanori": [
+        "あき",
+        "か",
+        "はっ"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "3095",
+        "nelson_n": "3863",
+        "halpern_njecd": "3493",
+        "halpern_kkld_2ed": "2929",
+        "heisig": "37",
+        "heisig6": "37",
+        "gakken": "266",
+        "oneill_kk": "79",
+        "moro": "22678",
+        "henshall": "65",
+        "kodansha_compact": "1362"
+      },
+      "query_codes": {
+        "skip": "4-5-2",
+        "sh_desc": "4c1.3",
+        "four_corner": "2600.0",
+        "deroo": "878"
+      }
+    },
+    {
+      "character": "八",
+      "unicode": "516b",
+      "jis208": "1-40-12",
+      "stroke_count": 2,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 92,
+      "radical": {
+        "classical": 12,
+        "nelson": null
+      },
+      "radical_components": [
+        "ハ"
+      ],
+      "meanings": {
+        "en": [
+          "eight",
+          "eight radical (no. 12)"
+        ],
+        "fr": [
+          "huit",
+          "radical huit (no. 12)"
+        ],
+        "es": [
+          "ocho",
+          "8"
+        ],
+        "pt": [
+          "Oito"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ハチ",
+          "ハツ"
+        ],
+        "kun": [
+          "や",
+          "や.つ",
+          "やっ.つ",
+          "よう"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "ba1",
+          "ba2"
+        ],
+        "korean_romanized": [
+          "pal"
+        ],
+        "korean_hangul": [
+          "팔"
+        ],
+        "vietnamese": [
+          "Bát"
+        ]
+      },
+      "nanori": [
+        "な",
+        "は",
+        "はっ",
+        "やち",
+        "やつ"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "577",
+        "nelson_n": "369",
+        "halpern_njecd": "3",
+        "halpern_kkld_2ed": "2536",
+        "heisig": "8",
+        "heisig6": "8",
+        "gakken": "41",
+        "oneill_kk": "10",
+        "moro": "1450",
+        "henshall": "66",
+        "kodansha_compact": "151"
+      },
+      "query_codes": {
+        "skip": "1-1-1",
+        "sh_desc": "2o0.1",
+        "four_corner": "8000.0",
+        "deroo": "2062"
+      }
+    },
+    {
+      "character": "半",
+      "unicode": "534a",
+      "jis208": "1-40-30",
+      "stroke_count": 5,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 224,
+      "radical": {
+        "classical": 24,
+        "nelson": 3
+      },
+      "radical_components": [
+        "｜",
+        "二",
+        "并",
+        "十"
+      ],
+      "meanings": {
+        "en": [
+          "half",
+          "middle",
+          "odd number",
+          "semi-",
+          "part-"
+        ],
+        "fr": [
+          "moitié",
+          "demi",
+          "milieu",
+          "nombre impair"
+        ],
+        "es": [
+          "mitad",
+          "medio",
+          "incompleto",
+          "semi-",
+          "semi",
+          "a medias",
+          "en parte"
+        ],
+        "pt": [
+          "metade",
+          "médio",
+          "número ímpar",
+          "semi-",
+          "parte-"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ハン"
+        ],
+        "kun": [
+          "なか.ば"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "ban4"
+        ],
+        "korean_romanized": [
+          "ban"
+        ],
+        "korean_hangul": [
+          "반"
+        ],
+        "vietnamese": [
+          "Bán"
+        ]
+      },
+      "nanori": [
+        "は"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "132",
+        "nelson_n": "608",
+        "halpern_njecd": "3501",
+        "halpern_kkld_2ed": "2936",
+        "heisig": "1202",
+        "heisig6": "1286",
+        "gakken": "224",
+        "oneill_kk": "150",
+        "moro": "2707X",
+        "henshall": "195",
+        "kodansha_compact": "243"
+      },
+      "query_codes": {
+        "skip": "4-5-3",
+        "sh_desc": "0a5.24",
+        "four_corner": "9050.0",
+        "deroo": "1055"
+      }
+    },
+    {
+      "character": "百",
+      "unicode": "767e",
+      "jis208": "1-41-20",
+      "stroke_count": 6,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 163,
+      "radical": {
+        "classical": 106,
+        "nelson": 1
+      },
+      "radical_components": [
+        "一",
+        "白"
+      ],
+      "meanings": {
+        "en": [
+          "hundred"
+        ],
+        "fr": [
+          "cent"
+        ],
+        "es": [
+          "cien",
+          "muchos"
+        ],
+        "pt": [
+          "cem"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ヒャク",
+          "ビャク"
+        ],
+        "kun": [
+          "もも"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "bai3",
+          "bo2"
+        ],
+        "korean_romanized": [
+          "baeg",
+          "maeg"
+        ],
+        "korean_hangul": [
+          "백",
+          "맥"
+        ],
+        "vietnamese": [
+          "Bách",
+          "Bá",
+          "Mạch"
+        ]
+      },
+      "nanori": [
+        "お",
+        "ど",
+        "どう",
+        "なり",
+        "ひゃっ",
+        "ひゅく",
+        "も",
+        "もんど",
+        "ゆう"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "33",
+        "nelson_n": "3864",
+        "halpern_njecd": "2026",
+        "halpern_kkld_2ed": "1746",
+        "heisig": "38",
+        "heisig6": "38",
+        "gakken": "73",
+        "oneill_kk": "82",
+        "moro": "22679",
+        "henshall": "67",
+        "kodansha_compact": "1363"
+      },
+      "query_codes": {
+        "skip": "2-2-4",
+        "sh_desc": "4c2.3",
+        "four_corner": "1060.0",
+        "deroo": "3178"
+      }
+    },
+    {
+      "character": "父",
+      "unicode": "7236",
+      "jis208": "1-41-67",
+      "stroke_count": 4,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 646,
+      "radical": {
+        "classical": 88,
+        "nelson": null
+      },
+      "radical_components": [
+        "父"
+      ],
+      "meanings": {
+        "en": [
+          "father"
+        ],
+        "fr": [
+          "père"
+        ],
+        "es": [
+          "padre"
+        ],
+        "pt": [
+          "pai"
+        ]
+      },
+      "readings": {
+        "on": [
+          "フ"
+        ],
+        "kun": [
+          "ちち"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "fu4",
+          "fu3"
+        ],
+        "korean_romanized": [
+          "bu",
+          "bo"
+        ],
+        "korean_hangul": [
+          "부",
+          "보"
+        ],
+        "vietnamese": [
+          "Phụ",
+          "Phủ"
+        ]
+      },
+      "nanori": [],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "2832",
+        "nelson_n": "3516",
+        "halpern_njecd": "1973",
+        "halpern_kkld_2ed": "1714",
+        "heisig": "1274",
+        "heisig6": "1366",
+        "gakken": "742",
+        "oneill_kk": "90",
+        "moro": "19721",
+        "henshall": "197",
+        "kodansha_compact": "1286"
+      },
+      "query_codes": {
+        "skip": "2-2-2",
+        "sh_desc": "2o2.3",
+        "four_corner": "8040.0",
+        "deroo": "2066"
+      }
+    },
+    {
+      "character": "聞",
+      "unicode": "805e",
+      "jis208": "1-42-25",
+      "stroke_count": 14,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 319,
+      "radical": {
+        "classical": 128,
+        "nelson": 169
+      },
+      "radical_components": [
+        "耳",
+        "門"
+      ],
+      "meanings": {
+        "en": [
+          "hear",
+          "ask",
+          "listen"
+        ],
+        "fr": [
+          "entendre",
+          "écouter",
+          "demander"
+        ],
+        "es": [
+          "preguntar",
+          "escuchar",
+          "rumor",
+          "reputación",
+          "oír"
+        ],
+        "pt": [
+          "escutar",
+          "perguntar",
+          "escuta"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ブン",
+          "モン"
+        ],
+        "kun": [
+          "き.く",
+          "き.こえる"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "wen2",
+          "wen4"
+        ],
+        "korean_romanized": [
+          "mun"
+        ],
+        "korean_hangul": [
+          "문"
+        ],
+        "vietnamese": [
+          "Văn",
+          "Vấn",
+          "Vặn"
+        ]
+      },
+      "nanori": [],
+      "variants": [
+        {
+          "type": "deroo",
+          "value": "3853"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "4959",
+        "nelson_n": "4732",
+        "halpern_njecd": "3326",
+        "halpern_kkld_2ed": "2840",
+        "heisig": "1626",
+        "heisig6": "1754",
+        "gakken": "262",
+        "oneill_kk": "109",
+        "moro": "29104",
+        "henshall": "200",
+        "kodansha_compact": "1584"
+      },
+      "query_codes": {
+        "skip": "3-8-6",
+        "sh_desc": "8e6.1",
+        "four_corner": "7740.1",
+        "deroo": "3854"
+      }
+    },
+    {
+      "character": "母",
+      "unicode": "6bcd",
+      "jis208": "1-42-76",
+      "stroke_count": 5,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 570,
+      "radical": {
+        "classical": 80,
+        "nelson": null
+      },
+      "radical_components": [
+        "母",
+        "毋"
+      ],
+      "meanings": {
+        "en": [
+          "mother"
+        ],
+        "fr": [
+          "maman",
+          "mère"
+        ],
+        "es": [
+          "madre",
+          "base",
+          "cimientos"
+        ],
+        "pt": [
+          "mãe",
+          "materno"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ボ"
+        ],
+        "kun": [
+          "はは",
+          "も"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "mu3"
+        ],
+        "korean_romanized": [
+          "mo"
+        ],
+        "korean_hangul": [
+          "모"
+        ],
+        "vietnamese": [
+          "Mẫu"
+        ]
+      },
+      "nanori": [],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "2466",
+        "nelson_n": "3005",
+        "halpern_njecd": "3475",
+        "halpern_kkld_2ed": "2917",
+        "heisig": "101",
+        "heisig6": "105",
+        "gakken": "554",
+        "oneill_kk": "89",
+        "moro": "16723",
+        "henshall": "203",
+        "kodansha_compact": "1143"
+      },
+      "query_codes": {
+        "skip": "4-5-1",
+        "sh_desc": "0a5.36",
+        "four_corner": "7750.0",
+        "deroo": "3647"
+      }
+    },
+    {
+      "character": "北",
+      "unicode": "5317",
+      "jis208": "1-43-44",
+      "stroke_count": 5,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 153,
+      "radical": {
+        "classical": 21,
+        "nelson": null
+      },
+      "radical_components": [
+        "匕",
+        "爿"
+      ],
+      "meanings": {
+        "en": [
+          "north"
+        ],
+        "fr": [
+          "nord"
+        ],
+        "es": [
+          "Norte",
+          "huir",
+          "perder"
+        ],
+        "pt": [
+          "norte"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ホク"
+        ],
+        "kun": [
+          "きた"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "bei3"
+        ],
+        "korean_romanized": [
+          "bug",
+          "bae"
+        ],
+        "korean_hangul": [
+          "북",
+          "배"
+        ],
+        "vietnamese": [
+          "Bắc"
+        ]
+      },
+      "nanori": [
+        "きら",
+        "ほう",
+        "ほっ",
+        "ほつ"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "751",
+        "nelson_n": "581",
+        "halpern_njecd": "197",
+        "halpern_kkld_2ed": "176",
+        "heisig": "445",
+        "heisig6": "480",
+        "gakken": "103",
+        "oneill_kk": "156",
+        "moro": "2574",
+        "henshall": "205",
+        "kodansha_compact": "231"
+      },
+      "query_codes": {
+        "skip": "1-3-2",
+        "sh_desc": "0a5.5",
+        "four_corner": "1111.0",
+        "deroo": "1256"
+      }
+    },
+    {
+      "character": "本",
+      "unicode": "672c",
+      "jis208": "1-43-60",
+      "stroke_count": 5,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 10,
+      "radical": {
+        "classical": 75,
+        "nelson": 2
+      },
+      "radical_components": [
+        "一",
+        "木"
+      ],
+      "meanings": {
+        "en": [
+          "book",
+          "present",
+          "main",
+          "origin",
+          "true",
+          "real",
+          "counter for long cylindrical things"
+        ],
+        "fr": [
+          "livre",
+          "présent",
+          "essentiel",
+          "origine",
+          "principal",
+          "réalité",
+          "vérité",
+          "compteur d'objets allongés"
+        ],
+        "es": [
+          "libro",
+          "origen",
+          "base",
+          "contador de cosas alargadas"
+        ],
+        "pt": [
+          "livro",
+          "presente",
+          "real",
+          "verdadeiro",
+          "principal",
+          "sufixo p/ contagem De coisas longas"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ホン"
+        ],
+        "kun": [
+          "もと"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "ben3"
+        ],
+        "korean_romanized": [
+          "bon"
+        ],
+        "korean_hangul": [
+          "본"
+        ],
+        "vietnamese": [
+          "Bổn",
+          "Bản"
+        ]
+      },
+      "nanori": [
+        "まと",
+        "ごう"
+      ],
+      "variants": [
+        {
+          "type": "jis208",
+          "value": "1-52-81"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "96",
+        "nelson_n": "2536",
+        "halpern_njecd": "3502",
+        "halpern_kkld_2ed": "2937",
+        "heisig": "211",
+        "heisig6": "224",
+        "gakken": "15",
+        "oneill_kk": "20",
+        "moro": "14421",
+        "henshall": "70",
+        "kodansha_compact": "1046"
+      },
+      "query_codes": {
+        "skip": "4-5-3",
+        "sh_desc": "0a5.25",
+        "four_corner": "5023.0",
+        "deroo": "1855"
+      }
+    },
+    {
+      "character": "毎",
+      "unicode": "6bce",
+      "jis208": "1-43-72",
+      "stroke_count": 6,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 436,
+      "radical": {
+        "classical": 80,
+        "nelson": null
+      },
+      "radical_components": [
+        "母",
+        "毋",
+        "乞"
+      ],
+      "meanings": {
+        "en": [
+          "every"
+        ],
+        "fr": [
+          "chaque"
+        ],
+        "es": [
+          "siempre",
+          "cada",
+          "en ese momento"
+        ],
+        "pt": [
+          "todo"
+        ]
+      },
+      "readings": {
+        "on": [
+          "マイ"
+        ],
+        "kun": [
+          "ごと",
+          "-ごと.に"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "mei3"
+        ],
+        "korean_romanized": [
+          "mae"
+        ],
+        "korean_hangul": [
+          "매"
+        ],
+        "vietnamese": [
+          "Mỗi"
+        ]
+      },
+      "nanori": [
+        "つね"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "2467",
+        "nelson_n": "3006",
+        "halpern_njecd": "2034",
+        "halpern_kkld_2ed": "1751",
+        "heisig": "458",
+        "heisig6": "497",
+        "gakken": "396",
+        "oneill_kk": "92",
+        "moro": "16724P",
+        "henshall": "206",
+        "kodansha_compact": "1144"
+      },
+      "query_codes": {
+        "skip": "2-2-4",
+        "sh_desc": "0a6.25",
+        "four_corner": "8050.7",
+        "deroo": "2347"
+      }
+    },
+    {
+      "character": "万",
+      "unicode": "4e07",
+      "jis208": "1-43-92",
+      "stroke_count": 3,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 375,
+      "radical": {
+        "classical": 1,
+        "nelson": null
+      },
+      "radical_components": [
+        "｜",
+        "ノ",
+        "一"
+      ],
+      "meanings": {
+        "en": [
+          "ten thousand",
+          "10,000"
+        ],
+        "fr": [
+          "myriade",
+          "10000"
+        ],
+        "es": [
+          "diez mil",
+          "muchos"
+        ],
+        "pt": [
+          "dez mil"
+        ]
+      },
+      "readings": {
+        "on": [
+          "マン",
+          "バン"
+        ],
+        "kun": [
+          "よろず"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "wan4",
+          "mo4"
+        ],
+        "korean_romanized": [
+          "man",
+          "mug"
+        ],
+        "korean_hangul": [
+          "만",
+          "묵"
+        ],
+        "vietnamese": [
+          "Vạn",
+          "Mặc"
+        ]
+      },
+      "nanori": [
+        "かず",
+        "ま",
+        "ゆる"
+      ],
+      "variants": [
+        {
+          "type": "jis208",
+          "value": "1-72-63"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "7",
+        "nelson_n": "7",
+        "halpern_njecd": "2936",
+        "halpern_kkld_2ed": "2542",
+        "heisig": "64",
+        "heisig6": "68",
+        "gakken": "96",
+        "oneill_kk": "84",
+        "moro": "10",
+        "henshall": "392",
+        "kodansha_compact": "8"
+      },
+      "query_codes": {
+        "skip": "3-2-1",
+        "sh_desc": "0a3.8",
+        "four_corner": "1022.7",
+        "deroo": "3145"
+      }
+    },
+    {
+      "character": "名",
+      "unicode": "540d",
+      "jis208": "1-44-30",
+      "stroke_count": 6,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 177,
+      "radical": {
+        "classical": 30,
+        "nelson": 36
+      },
+      "radical_components": [
+        "口",
+        "夕"
+      ],
+      "meanings": {
+        "en": [
+          "name",
+          "noted",
+          "distinguished",
+          "reputation"
+        ],
+        "fr": [
+          "nom",
+          "célèbre",
+          "fameux",
+          "réputation"
+        ],
+        "es": [
+          "nombre",
+          "célebre",
+          "distinguido",
+          "reputación"
+        ],
+        "pt": [
+          "nome",
+          "fama",
+          "distinção",
+          "reputação"
+        ]
+      },
+      "readings": {
+        "on": [
+          "メイ",
+          "ミョウ"
+        ],
+        "kun": [
+          "な",
+          "-な"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "ming2"
+        ],
+        "korean_romanized": [
+          "myeong"
+        ],
+        "korean_hangul": [
+          "명"
+        ],
+        "vietnamese": [
+          "Danh"
+        ]
+      },
+      "nanori": [
+        "と"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "1170",
+        "nelson_n": "716",
+        "halpern_njecd": "2169",
+        "halpern_kkld_2ed": "1857",
+        "heisig": "112",
+        "heisig6": "117",
+        "gakken": "116",
+        "oneill_kk": "131",
+        "moro": "3297",
+        "henshall": "71",
+        "kodansha_compact": "285"
+      },
+      "query_codes": {
+        "skip": "2-3-3",
+        "sh_desc": "3d3.12",
+        "four_corner": "2760.0",
+        "deroo": "2577"
+      }
+    },
+    {
+      "character": "木",
+      "unicode": "6728",
+      "jis208": "1-44-58",
+      "stroke_count": 4,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 317,
+      "radical": {
+        "classical": 75,
+        "nelson": null
+      },
+      "radical_components": [
+        "木"
+      ],
+      "meanings": {
+        "en": [
+          "tree",
+          "wood"
+        ],
+        "fr": [
+          "arbre",
+          "bois (matière)"
+        ],
+        "es": [
+          "árbol",
+          "madera"
+        ],
+        "pt": [
+          "árvore",
+          "madeira"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ボク",
+          "モク"
+        ],
+        "kun": [
+          "き",
+          "こ-"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "mu4"
+        ],
+        "korean_romanized": [
+          "mog",
+          "mo"
+        ],
+        "korean_hangul": [
+          "목",
+          "모"
+        ],
+        "vietnamese": [
+          "Mộc"
+        ]
+      },
+      "nanori": [
+        "ぐ",
+        "も",
+        "もと"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "2170",
+        "nelson_n": "2531",
+        "halpern_njecd": "3450",
+        "halpern_kkld_2ed": "2901",
+        "heisig": "195",
+        "heisig6": "207",
+        "gakken": "148",
+        "oneill_kk": "17",
+        "moro": "14415",
+        "henshall": "69",
+        "kodansha_compact": "1045"
+      },
+      "query_codes": {
+        "skip": "4-4-3",
+        "sh_desc": "4a0.1",
+        "four_corner": "4090.0",
+        "deroo": "1864"
+      }
+    },
+    {
+      "character": "友",
+      "unicode": "53cb",
+      "jis208": "1-45-07",
+      "stroke_count": 4,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 622,
+      "radical": {
+        "classical": 29,
+        "nelson": null
+      },
+      "radical_components": [
+        "ノ",
+        "一",
+        "又"
+      ],
+      "meanings": {
+        "en": [
+          "friend"
+        ],
+        "fr": [
+          "ami"
+        ],
+        "es": [
+          "amigo",
+          "compañero"
+        ],
+        "pt": [
+          "amigo"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ユウ"
+        ],
+        "kun": [
+          "とも"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "you3"
+        ],
+        "korean_romanized": [
+          "u"
+        ],
+        "korean_hangul": [
+          "우"
+        ],
+        "vietnamese": [
+          "Hữu"
+        ]
+      },
+      "nanori": [
+        "う",
+        "ど",
+        "ゆ"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "858",
+        "nelson_n": "672",
+        "halpern_njecd": "2952",
+        "halpern_kkld_2ed": "2553",
+        "heisig": "704",
+        "heisig6": "760",
+        "gakken": "543",
+        "oneill_kk": "158",
+        "moro": "3119",
+        "henshall": "214",
+        "kodansha_compact": "268"
+      },
+      "query_codes": {
+        "skip": "3-2-2",
+        "sh_desc": "2h2.3",
+        "four_corner": "4004.7",
+        "deroo": "1467"
+      }
+    },
+    {
+      "character": "来",
+      "unicode": "6765",
+      "jis208": "1-45-72",
+      "stroke_count": 7,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 102,
+      "radical": {
+        "classical": 75,
+        "nelson": 4
+      },
+      "radical_components": [
+        "｜",
+        "二",
+        "米",
+        "亠",
+        "木"
+      ],
+      "meanings": {
+        "en": [
+          "come",
+          "due",
+          "next",
+          "cause",
+          "become"
+        ],
+        "fr": [
+          "venir",
+          "dû à",
+          "suivant",
+          "causer",
+          "devenir"
+        ],
+        "es": [
+          "venir",
+          "llegar",
+          "acercarse",
+          "aproximarse"
+        ],
+        "pt": [
+          "Vir",
+          "devido",
+          "próximo",
+          "causa",
+          "tornar-se"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ライ",
+          "タイ"
+        ],
+        "kun": [
+          "く.る",
+          "きた.る",
+          "きた.す",
+          "き.たす",
+          "き.たる",
+          "き",
+          "こ"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "lai2"
+        ],
+        "korean_romanized": [
+          "rae"
+        ],
+        "korean_hangul": [
+          "래"
+        ],
+        "vietnamese": [
+          "Lai",
+          "Lãi",
+          "Lay",
+          "Lơi",
+          "Ray",
+          "Rơi"
+        ]
+      },
+      "nanori": [
+        "くり",
+        "くる",
+        "ごろ",
+        "さ"
+      ],
+      "variants": [
+        {
+          "type": "jis208",
+          "value": "1-48-52"
+        }
+      ],
+      "dic_refs": {
+        "nelson_c": "202",
+        "nelson_n": "2565",
+        "halpern_njecd": "3551",
+        "halpern_kkld_2ed": "2975",
+        "heisig": "1884",
+        "heisig6": "2029",
+        "gakken": "113",
+        "oneill_kk": "25",
+        "moro": "14489",
+        "henshall": "217",
+        "kodansha_compact": "36"
+      },
+      "query_codes": {
+        "skip": "4-7-3",
+        "sh_desc": "0a7.6",
+        "four_corner": "5090.0",
+        "deroo": "1464"
+      }
+    },
+    {
+      "character": "六",
+      "unicode": "516d",
+      "jis208": "1-47-27",
+      "stroke_count": 4,
+      "stroke_count_variants": [],
+      "grade": 1,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 93,
+      "radical": {
+        "classical": 12,
+        "nelson": 8
+      },
+      "radical_components": [
+        "ハ",
+        "亠"
+      ],
+      "meanings": {
+        "en": [
+          "six"
+        ],
+        "fr": [
+          "six"
+        ],
+        "es": [
+          "seis",
+          "6"
+        ],
+        "pt": [
+          "seis"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ロク",
+          "リク"
+        ],
+        "kun": [
+          "む",
+          "む.つ",
+          "むっ.つ",
+          "むい"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "liu4",
+          "lu4"
+        ],
+        "korean_romanized": [
+          "ryug"
+        ],
+        "korean_hangul": [
+          "륙"
+        ],
+        "vietnamese": [
+          "Lục"
+        ]
+      },
+      "nanori": [
+        "く",
+        "むつ",
+        "ろっ",
+        "ろつ"
+      ],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "283",
+        "nelson_n": "371",
+        "halpern_njecd": "1965",
+        "halpern_kkld_2ed": "1710",
+        "heisig": "6",
+        "heisig6": "6",
+        "gakken": "20",
+        "oneill_kk": "8",
+        "moro": "1453",
+        "henshall": "76",
+        "kodansha_compact": "153"
+      },
+      "query_codes": {
+        "skip": "2-2-2",
+        "sh_desc": "2j2.2",
+        "four_corner": "0080.0",
+        "deroo": "461"
+      }
+    },
+    {
+      "character": "話",
+      "unicode": "8a71",
+      "jis208": "1-47-35",
+      "stroke_count": 13,
+      "stroke_count_variants": [],
+      "grade": 2,
+      "jlpt_old": 4,
+      "jlpt_waller": "N5",
+      "frequency": 134,
+      "radical": {
+        "classical": 149,
+        "nelson": null
+      },
+      "radical_components": [
+        "言",
+        "口",
+        "舌"
+      ],
+      "meanings": {
+        "en": [
+          "tale",
+          "talk"
+        ],
+        "fr": [
+          "parler",
+          "histoire"
+        ],
+        "es": [
+          "cuento",
+          "charla",
+          "hablar",
+          "narrar"
+        ],
+        "pt": [
+          "Conversar",
+          "falar uma língua",
+          "conto"
+        ]
+      },
+      "readings": {
+        "on": [
+          "ワ"
+        ],
+        "kun": [
+          "はな.す",
+          "はなし"
+        ]
+      },
+      "readings_cjk": {
+        "pinyin": [
+          "hua4"
+        ],
+        "korean_romanized": [
+          "hwa"
+        ],
+        "korean_hangul": [
+          "화"
+        ],
+        "vietnamese": [
+          "Thoại"
+        ]
+      },
+      "nanori": [],
+      "variants": [],
+      "dic_refs": {
+        "nelson_c": "4358",
+        "nelson_n": "5608",
+        "halpern_njecd": "1527",
+        "halpern_kkld_2ed": "1388",
+        "heisig": "344",
+        "heisig6": "368",
+        "gakken": "133",
+        "oneill_kk": "180",
+        "moro": "35441",
+        "henshall": "221",
+        "kodansha_compact": "1684"
+      },
+      "query_codes": {
+        "skip": "1-7-6",
+        "sh_desc": "7a6.8",
+        "four_corner": "0266.4",
+        "deroo": "3077"
+      }
+    }
+  ]
+}
