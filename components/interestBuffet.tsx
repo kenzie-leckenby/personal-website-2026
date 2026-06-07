@@ -9,8 +9,6 @@ interface InterestBuffetProps {
 }
 
 function InterestBuffet({ fontSize = 48 }: InterestBuffetProps) {
-
-
     const typeSpeed = 100;
     const deleteSpeed = 50;
     const pauseTime = 5000;
@@ -57,13 +55,13 @@ function InterestBuffet({ fontSize = 48 }: InterestBuffetProps) {
         WebkitBackgroundClip: 'text',
         fontSize: fontSize,
         '& .blinking-cursor': {
-            color: 'text.primary',
+            color: 'var(--cursor-text-color)',
             animation: 'blink 1s step-end infinite',
         },
         '@keyframes blink': {
-            '0%': { color: 'text.primary' },
-            '50%': { color: 'background.default' },
-            '100%': { color: 'text.primary' },
+            '0%': { color: 'var(--cursor-text-color)' },
+            '50%': { color: 'var(--cursor-bg-color)' },
+            '100%': { color: 'var(--cursor-text-color)' },
         },
         }}>
             <span>A </span>
