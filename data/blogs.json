@@ -1,6 +1,12 @@
 {
     "blogs": [
         {
+            "title": "Switching to Self-Hosting",
+            "subtitle": "Talking about my migration from Vercel to self-hosting my website.",
+            "date": "Jun 7, 2026",
+            "topics": ["Docker", "Homelab"]
+        },
+        {
             "title": "Redoing my Website for 2026",
             "subtitle": "Discussing why I redesigned my website again and how.",
             "date": "Apr 12, 2026",

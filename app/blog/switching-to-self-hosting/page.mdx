@@ -1,0 +1,31 @@
+import MdxLayout from '@/components/mdxLayout'
+import BlogHeader from '@/components/blogHeader'
+
+<BlogHeader title="Switching to Self-Hosting" />
+
+In the past I have relied on [Vercel](https://vercel.com/home) for hosting all of my websites.
+Which had been great for my use case at the time,
+it was simple to setup without having to maintain any infrastructure of my own.
+But recently I have started to self-host a lot of different programs on my own homelab.
+Which begged the question, "why am I still relying on a 3rd party for my website?"
+
+Mind you I have been self-hosting many different services such as, [Plex](https://www.plex.tv/personal-media-server/), [Immich](https://immich.app/), and [Kavita](https://www.kavitareader.com/).
+All as part of my battle against eliminating pesky subscription services from my life.
+As I got better at managing on my docker images, it sort of became an addiction for me to self-host more things.
+So of course, my own website was next on the chopping block.
+I found that [Coolify](https://coolify.io/) satisfied most of my needs, though it technically wasn't supported on my Linux distro.
+
+I ran into some issues regarding port allocation, which was solved quickly, but the issue seemingly pops up more and more with each container I add.
+Aside from that, setting up [Cloudflare](https://www.cloudflare.com/) was definitely the most difficult part.
+Previously I had used a different domain registrar which had DNS records which were tied into Vercel.
+So I decided to switch registrars at the same time as updating DNS records.
+But now it should be easier to manage my domains in the future as they are now all centrally located.
+
+Creating tunnels the website was also different from previous setups I had done.
+As instead of port mapping I would just expose an internal port on Coolify's internal network.
+Then direct the tunnel towards the Coolify proxy itself, then Coolify handles the routing directly to the website.
+This in theory should make adding new websites significantly easier as I'd just have to plug in the new domain.
+
+export default function MDXPage({ children }) {
+  return <MdxLayout>{children}</MdxLayout>
+}

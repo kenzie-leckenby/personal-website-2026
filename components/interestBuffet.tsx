@@ -55,13 +55,13 @@ function InterestBuffet({ fontSize = 48 }: InterestBuffetProps) {
         WebkitBackgroundClip: 'text',
         fontSize: fontSize,
         '& .blinking-cursor': {
-            color: 'var(--cursor-text-color)',
+            color: 'text.primary',
             animation: 'blink 1s step-end infinite',
         },
         '@keyframes blink': {
-            '0%': { color: 'var(--cursor-text-color)' },
-            '50%': { color: 'var(--cursor-bg-color)' },
-            '100%': { color: 'var(--cursor-text-color)' },
+            '0%': { opacity: '100%' },
+            '50%': { opacity: '0%' },
+            '100%': { opacity: '100%' },
         },
         }}>
             <span>A </span>

@@ -1,5 +1,5 @@
 import type { MDXComponents } from 'mdx/types';
-import { AppBar, Container, Toolbar, Typography, Box, IconButton, Divider } from '@mui/material';
+import { Typography, Box, Divider, Link } from '@mui/material';
 import * as React from 'react';
 
 const components = {
@@ -94,6 +94,19 @@ const components = {
             </React.Fragment>
         );
     },
+    a: ({ children, href }: React.AnchorHTMLAttributes<HTMLAnchorElement>) => {
+        return(
+            <React.Fragment>
+                <Link href={href} underline="hover" sx={{
+                    color: 'primary.main',
+                    fontSize: {xs: 16, md: 18},
+                    mb: 2,
+                }}>
+                    {children}
+                </Link>
+            </React.Fragment>
+        );
+    }
 
 
 }
