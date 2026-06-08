@@ -53,7 +53,7 @@ function InterestBuffet({ fontSize = 48 }: InterestBuffetProps) {
 
     if (!mounted) return <span />;
 
-    // A lovely comment to initiate a change to test webhooks
+    // A lovely comment to initiate a change to test a webhook
     return (
         <Typography
         component='span'
