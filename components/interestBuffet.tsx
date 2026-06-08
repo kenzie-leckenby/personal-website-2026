@@ -1,6 +1,7 @@
 'use client';
 import React from "react";
 import { Box, Typography } from "@mui/material";
+import { keyframes } from "@mui/material";
 
 const interests = ['graphics nerd', 'hobby bookbinder', 'college student', 'game modder', 'space lover'];
 
@@ -17,6 +18,11 @@ function InterestBuffet({ fontSize = 48 }: InterestBuffetProps) {
     const [isDeleting, setIsDeleting] = React.useState(false);
     const [loopIndex, setLoopIndex] = React.useState(0);
     const [charIndex, setCharIndex] = React.useState(0);
+    const blink = keyframes`
+        0% { opacity: 1; }
+        50% { opacity: 0; }
+        100% { opacity: 1; }
+    `;
 
     React.useEffect(() => {
         setMounted(true);
@@ -56,13 +62,8 @@ function InterestBuffet({ fontSize = 48 }: InterestBuffetProps) {
         fontSize: fontSize,
         '& .blinking-cursor': {
             color: 'text.primary',
-            animation: 'blink 1s step-end infinite',
-        },
-        '@keyframes blink': {
-            '0%': { opacity: '100%' },
-            '50%': { opacity: '0%' },
-            '100%': { opacity: '100%' },
-        },
+            animation: `${blink} 1s step-end infinite`,
+        }
         }}>
             <span>A </span>
             {currentInterest}
